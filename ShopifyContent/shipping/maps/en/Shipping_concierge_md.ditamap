@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="shipping_shared_map_en">
+    <title>Shopify Shipping Shared Content Map</title>
+    <topicref href="../../topics-md/md_concierge/en/automatic-fulfillment.md" format="markdown"/>
+    <topicref href="../../topics-md/md_concierge/en/carrier-calculated-shipping.md" format="markdown"/>
+    <topicref href="../../topics-md/md_concierge/en/custom-fulfillment.md" format="markdown"/>
+    <topicref href="../../topics-md/md_concierge/en/fulfillment-service-amazon.md" format="markdown"/>
+    <topicref href="../../topics-md/md_concierge/en/print-multiple-shipping-labels.md" format="markdown"/>
+    <topicref href="../../topics-md/md_concierge/en/print-shipping-labels.md" format="markdown"/>
+    <topicref href="../../topics-md/md_concierge/en/return-shipping-labels.md" format="markdown"/>
+    <topicref href="../../topics-md/md_concierge/en/setup-free-shipping.md" format="markdown"/>
+    <topicref href="../../topics-md/md_concierge/en/shipping-box-size.md" format="markdown"/>
+    <topicref href="../../topics-md/md_concierge/en/shipping-canada-post.md" format="markdown"/>
+    <topicref href="../../topics-md/md_concierge/en/shipping-checkout-troubleshooting.md" format="markdown"/>
+    <topicref href="../../topics-md/md_concierge/en/shipping-dhl.md" format="markdown"/>
+    <topicref href="../../topics-md/md_concierge/en/shipping-fedex.md" format="markdown"/>
+    <topicref href="../../topics-md/md_concierge/en/shipping-flat-rate.md" format="markdown"/>
+    <topicref href="../../topics-md/md_concierge/en/shipping-free-select-items.md" format="markdown"/>
+    <topicref href="../../topics-md/md_concierge/en/shipping-insurance.md" format="markdown"/>
+    <topicref href="../../topics-md/md_concierge/en/shipping-international.md" format="markdown"/>
+    <topicref href="../../topics-md/md_concierge/en/shipping-label-purchase-trouble.md" format="markdown"/>
+    <topicref href="../../topics-md/md_concierge/en/shipping-label-without-order.md" format="markdown"/>
+    <topicref href="../../topics-md/md_concierge/en/shipping-labels-billing.md" format="markdown"/>
+    <topicref href="../../topics-md/md_concierge/en/shipping-local-pickup.md" format="markdown"/>
+    <topicref href="../../topics-md/md_concierge/en/shipping-multi-label-one-order.md" format="markdown"/>
+    <topicref href="../../topics-md/md_concierge/en/shipping-policy-page.md" format="markdown"/>
+    <topicref href="../../topics-md/md_concierge/en/shipping-printful.md" format="markdown"/>
+    <topicref href="../../topics-md/md_concierge/en/shipping-rate-strategy.md" format="markdown"/>
+    <topicref href="../../topics-md/md_concierge/en/shipping-refund.md" format="markdown"/>
+    <topicref href="../../topics-md/md_concierge/en/shipping-reprint-label.md" format="markdown"/>
+    <topicref href="../../topics-md/md_concierge/en/shipping-setup.md" format="markdown"/>
+    <topicref href="../../topics-md/md_concierge/en/shipping-strategy.md" format="markdown"/>
+    <topicref href="../../topics-md/md_concierge/en/shipping-time.md" format="markdown"/>
+    <topicref href="../../topics-md/md_concierge/en/shipping-ups.md" format="markdown"/>
+    <topicref href="../../topics-md/md_concierge/en/shipping-usps.md" format="markdown"/>
+    <topicref href="../../topics-md/md_concierge/en/shipping-weight-based.md" format="markdown"/>
+    <topicref href="../../topics-md/md_concierge/en/void-shipping-label.md" format="markdown"/>
+    <topicref href="../../topics-md/md_concierge/en/zip-code-shipping-rate.md" format="markdown"/>
+</map>

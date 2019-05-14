@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="shipping_map_en">
+    <title>Shopify Shipping Map</title>
+    
+    <topicref href="../../topics-md/md_src/en/index.md" format="markdown" navtitle="Original Shipping"/>
+    <topicref href="../../topics-md/md_src/en/index_interim.md" format="markdown" navtitle="Interim Shipping" locktitle="yes">
+        <topicref href="../../topics-md/md_src/en/index_interim_metadata.dita" format="dita"/>
+    </topicref>
+    <topicref href="../../topics-md/md_src/en/index.dita" format="dita" navtitle="DITA Shipping" locktitle="yes"/>
+
+    <topicref href="../../topics-md/md_src/en/shipping-checklist.md" format="markdown" navtitle="Original Shipping checklist"/>
+    <topicref href="../../topics-md/md_src/en/shipping-checklist_interim.md" format="markdown" navtitle="Interim Shipping checklist" locktitle="yes">
+        <topicref href="../../topics-md/md_src/en/shipping-checklist_interim_metadata.dita" format="dita"/>
+    </topicref>
+    <topicref href="../../topics-md/md_src/en/shipping-checklist.dita" format="dita" navtitle="DITA Shipping checklist" locktitle="yes"/>
+    
+    <topicref href="../../topics-md/md_src/en/understanding-shipping/index.md" format="markdown" navtitle="Undestanding shipping">
+        <topicref
+            href="../../topics-md/md_src/en/understanding-shipping/plan-your-shipping-strategy.md"
+            format="markdown" navtitle="Plan your shipping strategy"/>
+        <topicref href="../../topics-md/md_src/en/understanding-shipping/initial-setup.md"
+            format="markdown"/>
+        <topicref href="../../topics-md/md_src/en/understanding-shipping/packaging-and-weights.md"
+            format="markdown"/>
+    </topicref>
+    <topicref href="../../topics-md/md_src/en/zones.md" format="markdown" navtitle="Shipping zones"/>
+    <topicref href="../../topics-md/md_src/en/shopify-shipping/index.md" format="markdown" navtitle="Shopify Shipping">
+        <topicref href="../../topics-md/md_src/en/shopify-shipping/setting-up-shopify-shipping.md"
+            format="markdown"/>
+        <topicref href="../../topics-md/md_src/en/shopify-shipping/show-rates-at-checkout.md"
+            format="markdown"/>
+        <topicref href="../../topics-md/md_src/en/shopify-shipping/buy-and-print.md"
+            format="markdown"/>
+        <topicref href="../../topics-md/md_src/en/shopify-shipping/return-labels.md"
+            format="markdown"/>
+        <topicref href="../../topics-md/md_src/en/shopify-shipping/shipping-price-adjustments.md"
+            format="markdown"/>
+        <topicref href="../../topics-md/md_src/en/shopify-shipping/rates.md" format="markdown"/>
+        <topicref href="../../topics-md/md_src/en/shopify-shipping/label-printers.md"
+            format="markdown"/>
+        <topicref href="../../topics-md/md_src/en/shopify-shipping/shipping-options.md"
+            format="markdown"/>
+        <topicref href="../../topics-md/md_src/en/shopify-shipping/pickups.md" format="markdown"/>
+        <topicref href="../../topics-md/md_src/en/shopify-shipping/existing-merchants.md"
+            format="markdown"/>
+        <topicref href="../../topics-md/md_src/en/shopify-shipping/2018-rate-changes.md"
+            format="markdown"/>
+        <topicref href="../../topics-md/md_src/en/shopify-shipping/2019-rate-changes.md"
+            format="markdown"/>
+        <topicref href="../../topics-md/md_src/en/shopify-shipping/existing-merchants.md"
+            format="markdown"/>
+        <topicref
+            href="../../topics-md/md_src/en/shopify-shipping/holiday-shipping-deadlines-2018.md"
+            format="markdown"/>
+    </topicref>
+    <topicref href="../../topics-md/md_src/en/rates-and-methods/index.md" format="markdown" navtitle="Rates and methods">
+        <topicref href="../../topics-md/md_src/en/rates-and-methods/manual-rates.md"
+            format="markdown"/>
+        <topicref href="../../topics-md/md_src/en/rates-and-methods/fulfillment-services/index.md"
+            format="markdown">
+            <topicref
+                href="../../topics-md/md_src/en/rates-and-methods/fulfillment-services/custom.md"
+                format="markdown"/>
+            <topicref
+                href="../../topics-md/md_src/en/rates-and-methods/fulfillment-services/deactivate-fulfillment-service.md"
+                format="markdown"/>
+            <topicref
+                href="../../topics-md/md_src/en/rates-and-methods/fulfillment-services/amazon.md"
+                format="markdown"/>
+            <topicref
+                href="../../topics-md/md_src/en/rates-and-methods/fulfillment-services/troubleshooting.md"
+                format="markdown"/>
+        </topicref>
+        <topicref href="../../topics-md/md_src/en/rates-and-methods/delete-rates.md"
+            format="markdown"/>
+        <topicref
+            href="../../topics-md/md_src/en/rates-and-methods/custom-calculated-rates/index.md"
+            format="markdown">
+            <topicref
+                href="../../topics-md/md_src/en/rates-and-methods/custom-calculated-rates/setup-custom-calculated-rate.md"
+                format="markdown"/>
+            <topicref
+                href="../../topics-md/md_src/en/rates-and-methods/custom-calculated-rates/usps.md"
+                format="markdown"/>
+            <topicref
+                href="../../topics-md/md_src/en/rates-and-methods/custom-calculated-rates/canada-post.md"
+                format="markdown"/>
+            <topicref
+                href="../../topics-md/md_src/en/rates-and-methods/custom-calculated-rates/canada-post-app/index.md"
+                format="markdown">
+                <topicref
+                    href="../../topics-md/md_src/en/rates-and-methods/custom-calculated-rates/canada-post-app/canada-post-app-remove.md"
+                    format="markdown"/>
+            </topicref>
+            <topicref
+                href="../../topics-md/md_src/en/rates-and-methods/custom-calculated-rates/ups/index.md"
+                format="markdown">
+                <topicref
+                    href="../../topics-md/md_src/en/rates-and-methods/custom-calculated-rates/ups/buy-labels-with-your-ups-account.md"
+                    format="markdown"/>
+                <topicref
+                    href="../../topics-md/md_src/en/rates-and-methods/custom-calculated-rates/ups/ups-account-disconnected.md"
+                    format="markdown"/>
+            </topicref>
+            <topicref
+                href="../../topics-md/md_src/en/rates-and-methods/custom-calculated-rates/connect-your-ups-account.md"
+                format="markdown"/>
+            <topicref
+                href="../../topics-md/md_src/en/rates-and-methods/custom-calculated-rates/fedex.md"
+                format="markdown"/>
+            <topicref
+                href="../../topics-md/md_src/en/rates-and-methods/custom-calculated-rates/default-shipment-dimensions.md"
+                format="markdown"/>
+        </topicref>
+        <topicref href="../../topics-md/md_src/en/rates-and-methods/free-shipping.md"
+            format="markdown"/>
+        <topicref href="../../topics-md/md_src/en/rates-and-methods/examples.md" format="markdown"/>
+    </topicref>
+    <topicref href="../../topics-md/md_src/en/FAQ.md" format="markdown" navtitle="Original FAQ"/>
+    <topicref href="../../topics-md/md_src/en/FAQ_interim.md" format="markdown" navtitle="Interim FAQ" locktitle="yes">
+        <topicref href="../../topics-md/md_src/en/FAQ_interim_metadata.dita" format="dita" locktitle="yes"/>
+    </topicref>
+    <topicref href="../../topics-md/md_src/en/FAQ.dita" format="dita" navtitle="DITA FAQ" locktitle="yes"/>
+</map>

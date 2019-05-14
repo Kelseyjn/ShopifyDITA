@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="shipping_shared_map_en">
+    <title>Shopify Shipping Shared Content Map</title>
+    <topicref href="../../topics-md/md_shared/en/change-shipping-origin-mobile.md" format="markdown"/>
+    <topicref href="../../topics-md/md_shared/en/create-free-shipping-discount.md" format="markdown"/>
+    <topicref href="../../topics-md/md_shared/en/link-to-more-videos.md" format="markdown"/>
+    <topicref href="../../topics-md/md_shared/en/orders.md" format="markdown"/>
+    <topicref href="../../topics-md/md_shared/en/password-disclaimer.md" format="markdown"/>
+    <topicref href="../../topics-md/md_shared/en/products.md" format="markdown"/>
+    <topicref href="../../topics-md/md_shared/en/settings-notifications.md" format="markdown"/>
+    <topicref href="../../topics-md/md_shared/en/settings-shipping.md" format="markdown"/>
+    <topicref href="../../topics-md/md_shared/en/shipping-features-plans.md" format="markdown"/>
+</map>
