@@ -7,10 +7,9 @@
             <ol>
                 <li id="orders">From your Shopify admin, go to <b>Orders</b>.</li>
             </ol>
-            <p/>
         </section>
         <section>
-            <note type="other" othertype="information" id="link-to-more-videos">
+            <note type="other" othertype="Information" id="link-to-more-videos">
                 <p>To see more videos, visit our <xref
                         href="https://www.youtube.com/channel/UCSG_dVp-hi_hWP-Z7DlpRgQ"
                         format="html" scope="external">YouTube channel</xref>.</p>
