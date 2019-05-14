@@ -412,7 +412,7 @@
             <body class="- topic/body ">
                 <section platform="Desktop">
                     <p class="- topic/p ">
-                        <ol><li conref="../.././md_shared/en/shipping_shared.dita#shipping_shared/orders"></li></ol>
+                        <ol><li conref="../../../md_shared/en/shipping_shared.dita#shipping_shared/orders"/></ol>
                     </p>
                     <ol class="- topic/ol ">
                         <li class="- topic/li ">Click the number of an order that you've purchased a
@@ -682,9 +682,7 @@
         <topic id="steps-4">
             <title class="- topic/title ">Steps:</title>
             <body class="- topic/body ">
-                <p class="- topic/p ">
-                    <!--conref class="- topic/conref ">admin_sidebar/settings-shipping.md</conref-->
-                </p>
+                <section  conref="../../../md_shared/en/shipping_shared.dita#shipping_shared/settings-shipping"/>
                 <ol class="- topic/ol ">
                     <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Shipping labels</b>
                         section, select the <b class="+ topic/ph hi-d/b ">Label format</b> that
