@@ -193,7 +193,9 @@
             <body class="- topic/body ">
                 <section platform="Desktop">
                     <p class="- topic/p ">
-                        <!--conref class="- topic/conref ">admin_sidebar/orders.md</conref-->
+                        <ol>
+                            <li conref="../../../md_shared/en/shipping_shared.dita#shipping_shared/orders"></li>
+                        </ol>
                     </p>
                     <ol class="- topic/ol ">
                         <li class="- topic/li ">Click an order that contains unfulfilled items.</li>
@@ -411,7 +413,7 @@
             <body class="- topic/body ">
                 <section platform="Desktop">
                     <p class="- topic/p ">
-                        <!--conref class="- topic/conref ">admin_sidebar/orders.md</conref-->
+                        <ol><li conref="../.././md_shared/en/shipping_shared.dita#shipping_shared/orders"></li></ol>
                     </p>
                     <ol class="- topic/ol ">
                         <li class="- topic/li ">Click the number of an order that you've purchased a
@@ -517,7 +519,7 @@
             <body class="- topic/body ">
                 <section platform="Desktop">
                     <p class="- topic/p ">
-                        <!--conref class="- topic/conref ">admin_sidebar/orders.md</conref-->
+                        <ol><li conref="../../../md_shared/en/shipping_shared.dita#shipping_shared/orders"></li></ol>
                     </p>
                     <ol class="- topic/ol ">
                         <li class="- topic/li ">Click the number of an international order that
@@ -750,7 +752,7 @@
             <p class="- topic/p ">{{ sections "Desktop, iPhone, Android" }}</p>
             <section platform="Desktop">
                 <p class="- topic/p ">
-                    <!--conref class="- topic/conref ">admin_sidebar/orders.md</conref-->
+                    <ol><li conref="../../../md_shared/en/shipping_shared.dita#shipping_shared/orders"></li></ol>
                 </p>
                 <ol class="- topic/ol ">
                     <li class="- topic/li ">Click the number of the order with the shipping label
