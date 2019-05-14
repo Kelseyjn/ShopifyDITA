@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="shipping_checklist">
+    <title>Shipping checklist</title>
+    <titlealts>
+        <searchtitle>Shipping checklist</searchtitle>
+    </titlealts>
+    <shortdesc>Complete these tasks to start shipping products.</shortdesc>
+    <prolog>
+        <metadata>
+            <keywords>
+                <keyword>checklists</keyword>
+                <keyword>shipping</keyword>
+                <keyword>first steps</keyword>
+                <keyword>beginners</keyword>
+                <keyword>getting started</keyword>
+            </keywords>
+            <othermeta name="url" content="/en/manual/shipping/shipping-checklist"/>
+            <othermeta name="gid" content="2e1108e5-51af-4999-afc8-e9efaeb740ba"/>
+            <othermeta name="img" content="cardboard-box-open"/>
+            <othermeta name="weight" content="1"/>
+        </metadata>
+    </prolog>
+    <body>
+        <p>This checklist outlines the main steps to start shipping products from your store. You
+            might find it helpful to <xref href="javascript:window.print()">print this
+                checklist</xref> or to download it as a PDF so that you can easily reference it
+            throughout the setup process.</p>
+        <p>To start shipping, complete the following tasks:</p>
+        <ol outputclass="marketing-checkbox" base="checkbox">
+            <li id="theme-files-1" outputclass="marketing-checkbox-label"><xref
+                    href="#set-up-your-shipping-rates-and-methods" format="html">Set up your
+                    shipping rates and methods</xref></li>
+            <li id="theme-files-2" outputclass="marketing-checkbox-label"><xref
+                    href="#add-product-weights" format="html">Add product weights</xref></li>
+            <li id="theme-files-3" outputclass="marketing-checkbox-label"><xref
+                    href="#choose-your-preferred-package-types" format="html">Choose your preferred
+                    package types</xref></li>
+            <li id="theme-files-4" outputclass="marketing-checkbox-label"><xref
+                    href="#get-free-packaging-materials" format="html">Get free
+                packaging</xref></li>
+            <li id="theme-files-5" outputclass="marketing-checkbox-label"><xref
+                    href="#print-a-test-shipping-label" format="html">Print a test shipping
+                    label</xref></li>
+        </ol>
+    </body>
+    <topic id="set_up_your_shipping_rates_and_methods">
+        <title>Set up your shipping rates and methods</title>
+        <body>
+            <p>When deciding what to charge buyers for shipping, you need to consider the following
+                options:</p>
+            <ul>
+                <li>Exact shipping costs: Charge buyers the same thing that carriers like USPS or
+                    Canada Post charge to ship.</li>
+                <li>Flat rate shipping: Charge fixed shipping rates based on order value or weight.
+                    For example, charge $5 to ship anywhere in the United States.</li>
+                <li>Free shipping: Offer free shipping on all orders or set free shipping rules. For
+                    example, offer free shipping on orders over $150.</li>
+            </ul>
+            <p>Unexpected costs at the checkout are the main reason why buyers don’t complete
+                purchases. The most common unexpected costs are for shipping. Make your shipping
+                costs clear on your home or product page to avoid surprises at the checkout.</p>
+            <ol outputclass="marketing-checkbox" base="checkbox">
+                <li id="theme-files-6" outputclass="marketing-checkbox-label">
+                    <xref href="https://www.shopify.com/admin/settings/shipping" format="html"
+                        scope="external">Set up your shipping rates and methods</xref>
+                </li>
+            </ol>
+        </body>
+    </topic>
+    <topic id="add_product_weights">
+        <title>Add product weights</title>
+        <body>
+            <p>Shipping costs are calculated based on the weight and dimensions of your
+                shipment.</p>
+            <p>To calculate accurate shipping costs, add weights to all of the products that you
+                will be shipping. If you’re unsure how much your products weigh, then learn about
+                    <xref
+                    href="https://help.shopify.com/manual/shipping/understanding-shipping/common-product-weights"
+                    format="html" scope="external">common product weights</xref> or <xref
+                    href="https://hardware.shopify.com/collections/shipping/products/shipping-scale-10-lbs?variant=6777246273"
+                    format="html" scope="external">order a scale</xref>.</p>
+
+            <ol outputclass="marketing-checkbox" base="checkbox">
+                <li id="theme-files-7" outputclass="marketing-checkbox-label">
+                    <xref href="https://www.shopify.com/admin/products" format="html"
+                        scope="external">Add product weights</xref></li>
+            </ol>
+        </body>
+    </topic>
+    <topic id="choose_your_preferred_package_types">
+        <title>Choose your preferred package types</title>
+        <body>
+            <p>Save your preferred package types on the shipping settings page of your Shopify
+                admin. You can select envelopes, boxes, or carrier-specific packaging like USPS Flat
+                Rate packaging.</p>
+
+            <ol outputclass="marketing-checkbox" base="checkbox">
+                <li id="theme-files-8" outputclass="marketing-checkbox-label">
+                    <xref href="https://www.shopify.com/admin/settings/shipping" format="html"
+                        scope="external">Choose your preferred package types</xref></li>
+            </ol>
+
+        </body>
+    </topic>
+    <topic id="get_free_packaging_materials">
+        <title>Get free packaging materials</title>
+        <body>
+            <p>Many carriers offer free packaging to use with specific shipping services. Although
+                there is no cost for the packaging, you might need to create a free account with the
+                carrier so that they can send the packaging to you. The following Shopify Shipping
+                carriers offer free packaging:</p>
+            <ul>
+                <li>
+                    <xref
+                        href="https://store.usps.com/store/results/shipping-supplies-flat-rate/_/N-1bzu2g5"
+                        format="html" scope="external">USPS</xref>
+                </li>
+                <li>
+                    <xref
+                        href="https://www.ups.com/us/en/help-center/packaging-and-supplies/supplies-forms.page?"
+                        format="page?" scope="external">UPS</xref>
+                </li>
+                <li>
+                    <xref
+                        href="https://sbw.dhl-usa.com/SupplyOrder/SupplyOrderList.asp?nav=OrderSupplies"
+                        format="asp?nav=ordersupplies" scope="external">DHL Express</xref>
+                </li>
+            </ul>
+            <ol outputclass="marketing-checkbox" base="checkbox">
+                <li id="theme-files-9" outputclass="marketing-checkbox-label">Get free
+                    packaging</li>
+            </ol>
+        </body>
+        <topic id="print_a_test_shipping_label">
+            <title>Print a test shipping label</title>
+            <body>
+                <p>If a customer pays for shipping, whether for the exact cost or flat rate, then
+                    you will receive the payment along with the rest of the funds for their order.
+                    When you print shipping labels through Shopify, you will be charged the cost of
+                    the label on your Shopify bill.</p>
+                <p>When you receive an order you can buy and print USPS, UPS, DHL Express, and
+                    Canada Post shipping labels from Shopify to ship your order. Depending on your
+                    Shopify plan, you will save up to 60% on shipping as compared to retail
+                    rates.</p>
+                <p>Labels can be printed using a standard desktop printer or with a supported <xref
+                        href="https://help.shopify.com/manual/shipping/shopify-shipping/label-printers"
+                        format="html" scope="external">thermal label printer</xref>.</p>
+                <ol outputclass="marketing-checkbox" base="checkbox">
+                    <li id="theme-files-10" outputclass="marketing-checkbox-label">
+                        <xref
+                            href="https://cdn.shopify.com/s/assets/admin/shipping/test-label--usps-4_x_6-7ec2736fc2f2217940be4a8a4d28cc623f0f0a7d4485eed298c30ade84db013a.pdf"
+                            format="pdf" scope="external">Print a test shipping label</xref>
+                    </li>
+                </ol>
+            </body>
+        </topic>
+    </topic>
+</topic>

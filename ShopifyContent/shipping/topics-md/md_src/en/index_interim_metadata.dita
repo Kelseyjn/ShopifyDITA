@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="shipping_index" xml:lang="en">
+    <title>index Metadata</title>
+    <titlealts>
+        <navtitle>Shipping</navtitle>
+    </titlealts>
+    <shortdesc>Choose and manage how you get products to your customers.</shortdesc>
+    <prolog>
+        <metadata>
+            <keywords>
+                <keyword/>
+            </keywords>
+            <othermeta name="url" content="/en/manual/shipping/index"/>
+            <othermeta name="gid" content="4c1d0265-681f-432f-a20d-ae687354565e"/>
+            <othermeta name="img" content="cardboard-box-open"/>
+            <othermeta name="weight" content="12"/>
+        </metadata>
+    </prolog>
+</topic>

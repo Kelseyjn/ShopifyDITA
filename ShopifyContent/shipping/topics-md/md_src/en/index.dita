@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+    <topic id="shipping">
+        <title>Shipping</title>
+        <titlealts>
+            <searchtitle>Shipping</searchtitle>
+        </titlealts>
+        <shortdesc>Choose and manage how you get products to your customers.</shortdesc>
+        <prolog>
+            <metadata>
+                <othermeta name="url" content="/en/manual/shipping/index"/>
+                <othermeta name="gid" content="4c1d0265-681f-432f-a20d-ae687354565e"/>
+                <othermeta name="img" content="cardboard-box-open"/>
+                <othermeta name="weight" content="12"/>
+            </metadata>
+        </prolog>
+        <body>
+            <note type="note">
+                <p>You manage all your store's shipping settings on the
+                <xref href="www.shopify.com/admin/settings/shipping" format="html">
+                <b>Shipping</b></xref> page in your Shopify admin.</p>
+            </note>
+            <p><xref href="/manual/shipping/understanding-shipping" format="html">Understanding the
+                best ways to ship your products to your customers</xref> is an important part of
+                running your business. Before you take your first order, you need to decide what
+                shipping methods you want to use, and then set up your store's shipping so that your
+                customers can choose a delivery method at checkout.</p>
+            <note type="tip" othertype="Growth">
+                <p> Want to save time and money on shipping? You can use
+                <xref href="/manual/shipping/shopify-shipping" format="html">
+                <b>Shopify Shipping</b></xref> to buy and print shipping labels from your Shopify
+                admin.</p>
+            </note>
+        </body>
+        <related-links>
+            <link href="/manual/shipping/shipping-checklist" format="html">
+                <linktext>Shipping checklist</linktext>
+            </link>
+            <link href="/manual/shipping/understanding-shipping">
+                <linktext>Understanding shipping</linktext>
+            </link>
+            <link href="/manual/shipping/zones">
+                <linktext>Shipping zones</linktext>
+            </link>
+            <link href="/manual/shipping/shopify-shipping">
+                <linktext>Shopify Shipping</linktext>
+            </link>
+            <link href="/manual/shipping/rates-and-methods">
+                <linktext>Set up your shipping rates and methods</linktext>
+            </link>
+            <link href="/manual/shipping/FAQ">
+                <linktext>Shipping FAQ</linktext>
+            </link>
+        </related-links>
+    </topic>
+</dita>

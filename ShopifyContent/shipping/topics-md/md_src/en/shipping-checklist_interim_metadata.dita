@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="shipping_index" xml:lang="en">
+    <title>Shipping checklist</title>
+    <titlealts>
+        <searchtitle>Shipping checklist</searchtitle>
+    </titlealts>
+    <shortdesc>Complete these tasks to start shipping products.</shortdesc>
+    <prolog>
+        <metadata>
+            <keywords>
+                <keyword>checklists</keyword>
+                <keyword>shipping</keyword>
+                <keyword>first steps</keyword>
+                <keyword>beginners</keyword>
+                <keyword>getting started</keyword>
+            </keywords>
+            <othermeta name="url" content="/en/manual/shipping/shipping-checklist"/>
+            <othermeta name="gid" content="2e1108e5-51af-4999-afc8-e9efaeb740ba"/>
+            <othermeta name="img" content="cardboard-box-open"/>
+            <othermeta name="weight" content="1"/>
+        </metadata>
+    </prolog>
+</topic>

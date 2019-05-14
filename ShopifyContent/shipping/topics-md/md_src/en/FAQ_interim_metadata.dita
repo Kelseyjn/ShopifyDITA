@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="shipping_faq" xml:lang="en">
+    <title>Shipping FAQ</title>
+    <titlealts>
+        <searchtitle>FAQ</searchtitle>
+    </titlealts>
+    <shortdesc>Find answers to common questions about setting up your shipping settings in Shopify.</shortdesc>
+    <prolog>
+        <metadata>
+            <keywords>
+                <keyword>checklists</keyword>
+                <keyword>shipping</keyword>
+                <keyword>first steps</keyword>
+                <keyword>beginners</keyword>
+                <keyword>getting started</keyword>
+            </keywords>
+            <othermeta name="url" content="/en/manual/shipping/FAQ"/>
+            <othermeta name="gid" content="28ee85fe-840d-4f0c-b6cf-9098100a9b1c"/>
+            <othermeta name="weight" content="7"/>
+        </metadata>
+    </prolog>
+</topic>

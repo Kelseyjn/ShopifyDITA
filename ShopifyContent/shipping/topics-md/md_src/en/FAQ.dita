@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="faq">
+    <title>Shipping FAQ</title>
+    <titlealts>
+        <searchtitle>FAQ</searchtitle>
+    </titlealts>
+    <shortdesc>Find answers to common questions about setting up your shipping settings in Shopify.</shortdesc>
+    <prolog>
+        <metadata>
+            <keywords>
+                <keyword>checklists</keyword>
+                <keyword>shipping</keyword>
+                <keyword>first steps</keyword>
+                <keyword>beginners</keyword>
+                <keyword>getting started</keyword>
+            </keywords>
+            <othermeta name="url" content="/en/manual/shipping/FAQ"/>
+            <othermeta name="gid" content="28ee85fe-840d-4f0c-b6cf-9098100a9b1c"/>
+            <othermeta name="weight" content="7"/>
+        </metadata>
+    </prolog>
+    <body>
+        <p>Find answers to some commons questions about setting up your <xref
+                href="www.shopify.com/admin/settings/shipping" format="html"
+                ><b>Shipping</b></xref> settings in Shopify.</p>
+    </body>
+    <topic id="how_do_i_provide_free_shipping_to_my_customers">
+        <title>How do I provide free shipping to my customers?</title>
+        <body>
+            <p>There are a few ways you can offer free shipping to your customers:</p>
+            <codeblock xml:space="preserve">* [price-based rates](/manual/shipping/rates-and-methods/free-shipping/#free-shipping-over-a-set-dollar-amount)
+* [weight-based rates](/manual/shipping/rates-and-methods/free-shipping/#free-shipping-over-a-set-weight)
+* [free shipping discount codes](/manual/promoting-marketing/discount-codes/create-discount-codes/#create-a-free-shipping-discount).</codeblock>
+        </body>
+    </topic>
+    <topic id="how_do_i_remove_shipping_for_digital_products">
+        <title>How do I remove shipping for digital products?</title>
+        <body>
+            <p>If you're selling a digital download product or a service, then you should <xref
+                    href="/manual/products/digital-service-product/#disable-shipping-for-a-digital-product"
+                    format="html">disable shipping for that product</xref> by unchecking <b>This is
+                    a physical product</b> on the product's information page.</p>
+        </body>
+    </topic>
+    <topic id="how_do_i_add_handling_fees_to_my_shipping_rates">
+        <title>How do I add handling fees to my shipping rates?</title>
+        <body>
+            <p>You can mark up your shipping costs or add a handling charge in two ways:</p>
+            <ul>
+                <li>add a fixed amount to your product prices (you can edit these from the <xref
+                        href="https://www.shopify.com/admin/products" format="html" scope="external"
+                            ><b>Products</b></xref> page)</li>
+                <li>add a fixed amount to your <xref
+                        href="/manual/shipping/rates-and-methods/manual-rates" format="html">manual
+                        rates</xref> or a fixed percentage to your <xref
+                        href="/manual/shipping/rates-and-methods/custom-calculated-rates"
+                        format="html">calculated rates</xref>.</li>
+            </ul>
+        </body>
+    </topic>
+    <topic id="can_i_add_product_specific_shipping_fees">
+        <title>Can I add product-specific shipping fees?</title>
+        <body>
+            <p>You can't add shipping rates for specific products. Instead, you can <xref
+                    href="/manual/orders/create-orders#add-shipping" format="html">create an order
+                    manually</xref>, or add a custom rate from the <xref
+                    href="www.shopify.com/admin/orders" format="html"><b>Orders</b></xref> page in
+                your Shopify admin.</p>
+        </body>
+    </topic>
+    <topic id="how_do_i_add_a_custom_carrier_using_my_own_credentials">
+        <title>How do I add a custom carrier using my own credentials?</title>
+        <body>
+            <p>If your store is on the Advanced Shopify plan or higher, then you can display your
+                negotiated rates at checkout by using your custom credentials with <xref
+                    href="/manual/shipping/rates-and-methods/custom-calculated-rates/usps"
+                    format="html">USPS</xref>, <xref
+                    href="/manual/shipping/rates-and-methods/custom-calculated-rates/canada-post/#use-your-own-canada-post-account"
+                    format="html">Canada Post</xref>, <xref
+                    href="/manual/shipping/rates-and-methods/custom-calculated-rates/ups"
+                    format="html">UPS</xref>, and <xref
+                    href="/manual/shipping/rates-and-methods/custom-calculated-rates/fedex"
+                    format="html">FedEx</xref>.</p>
+        </body>
+    </topic>
+    <topic id="how_do_i_print_a_test_label">
+        <title>How do I print a test label?</title>
+        <body>
+            <p>You can <xref
+                    href="/manual/shipping/shopify-shipping/buy-and-print/#print-a-test-label"
+                    format="html">print a test shipping label</xref> from the <xref
+                    href="www.shopify.com/admin/settings/shipping" format="html"
+                    ><b>Shipping</b></xref> page in your Shopify admin or the Shopify app. You will
+                not be charged for printing a test label.</p>
+            <codeblock xml:space="preserve">![Shopify Shipping - CP test label](/manual/shipping/cp-test-label.png)</codeblock>
+        </body>
+    </topic>
+    <topic id="how_do_i_cancel_or_void_a_shipping_label">
+        <title>How do I cancel or void a shipping label?</title>
+        <body>
+            <p>You <xref
+                    href="/manual/shipping/shopify-shipping/buy-and-print#void-a-shipping-label"
+                    format="html">void a shipping label</xref> from the <b>Fulfillments</b> section
+                of an order's page.</p>
+        </body>
+    </topic>
+    <topic id="how_does_shopify_charge_me_for_shipping_labels">
+        <title>How does Shopify charge me for shipping labels?</title>
+        <body>
+            <p>The cost of a shipping label is billed through <xref
+                    href="/manual/your-account/manage-billing/your-invoice/charges/#shipping-label-fees"
+                    format="html">your Shopify account on your regular billing cycle</xref>.
+                However, if you reach your daily billing threshold for shipping labels, then you can
+                continue to buy shipping labels equal to 10% of your threshold amount while a bill
+                is being generated. Any purchases made during this time are included in your next
+                bill.</p>
+            <p>If you cancel a shipping label, then its cost will be refunded as a credit towards
+                future label purchases. The cost won't be reimbursed directly to your Shopify
+                account.</p>
+        </body>
+    </topic>
+    <topic id="can_i_offer_my_customers_a_local_pickup_option">
+        <title>Can I offer my customers a local pickup option?</title>
+        <body>
+            <p>If you want to offer customers a local pickup option, then you can <xref
+                    href="/manual/shipping/rates-and-methods/free-shipping" format="html">add a free
+                    shipping rate</xref>, then enter a name that clearly labels the option as local
+                pickup: <image href="/manual/shipping/local-pickup-rate.png">
+                    <alt>Shopify Shipping - local pickup rate 1</alt>
+                </image></p>
+            <p>During checkout, your customers will see something like the following: <image
+                    href="/manual/shipping/local-pickup-rate2.png">
+                    <alt>Shopify Shipping - local pickup rate 2</alt>
+                </image></p>
+            <lq><p>Note: This method is not supported by Shopify.</p></lq>
+        </body>
+    </topic>
+    <topic id="how_much_does_it_cost_to_buy_a_shipping_label_through_shopify_shipping">
+        <title>How much does it cost to buy a shipping label through Shopify Shipping?</title>
+        <body>
+            <p>There is no per-label fee when purchasing a shipping label. Instead, you are charged
+                the cost of the discounted label purchased through Shopify Shipping. Shipping rates
+                vary but you can <xref href="/manual/shipping/shopify-shipping/rates" format="html"
+                    >view example rates</xref> to get a better idea of shipping costs.</p>
+        </body>
+    </topic>
+    <topic id="how_do_i_make_my_shipping_rates_more_attractive_to_my_customers">
+        <title>How do I make my shipping rates more attractive to my customers?</title>
+        <body>
+            <p>You can make your shipping rates more attractive to your customers in three ways:</p>
+            <codeblock xml:space="preserve">* [free shipping](/manual/shipping/rates-and-methods/free-shipping)&amp;mdash;you can offer free shipping on orders over a certain dollar amount to encourage customers to complete their checkout.
+* [calculated shipping](/manual/shipping/rates-and-methods/custom-calculated-rates)&amp;mdash;you can charge exact shipping costs to avoid over-charging customers.
+* [flat rate shipping](/manual/shipping/rates-and-methods/manual-rates)&amp;mdash;you can offer flat rate shipping to domestic customers to encourage checkout completion.</codeblock>
+        </body>
+    </topic>
+    <topic id="what_is_the_difference_between_shopify_shipping_and_calculated_rates">
+        <title>What is the difference between Shopify Shipping and calculated rates?</title>
+        <body>
+            <p>If your store is based in the United States or Canada, then you can use <xref
+                    href="/manual/shipping/shopify-shipping" format="html">Shopify Shipping</xref>
+                to <xref
+                    href="/manual/shipping/shopify-shipping/setting-up-shopify-shipping/#add-calculated-rates-to-zones"
+                    format="html">display calculated rates</xref> to your customers and <xref
+                    href="/manual/shipping/shopify-shipping/rates" format="html">receive reduced
+                    shipping rates</xref> from USPS or Canada Post.</p>
+            <p>If you're not eligible for Shopify Shipping, then you can <xref
+                    href="/manual/shipping/rates-and-methods/custom-calculated-rates/#basic-procedure-for-offering-calculated-shipping"
+                    format="html">offer your customers calculated rates</xref> at checkout using
+                your personal credentials through <xref
+                    href="/manual/shipping/rates-and-methods/custom-calculated-rates/usps"
+                    format="html">USPS</xref>, <xref
+                    href="/manual/shipping/rates-and-methods/custom-calculated-rates/canada-post/#use-your-own-canada-post-account"
+                    format="html">Canada Post</xref>, <xref
+                    href="/manual/shipping/rates-and-methods/custom-calculated-rates/ups"
+                    format="html">UPS</xref>, or <xref
+                    href="/manual/shipping/rates-and-methods/custom-calculated-rates/fedex"
+                    format="html">FedEx</xref> if you're on the Advanced Shopify plan or higher.</p>
+        </body>
+    </topic>
+    <topic id="why_does_my_shipping_label_download_to_my_computer_when_i_click_print_label">
+        <title>Why does my shipping label download to my computer when I click Print label?</title>
+        <body>
+            <p>If you're using Google Chrome, then your shipping labels might automatically download
+                to your computer instead of opening a print dialog.</p>
+            <p>To print a shipping label with these settings, complete the following steps:</p>
+            <ol>
+                <li conref="../../md_shared/en/shipping_shared.dita#shipping_shared/orders"></li>
+                <li>Click the number of an order that you've already bought a shipping label
+                        for.</li>
+                <li>In the <b>Fulfillments</b> section, click <b>Print label</b>. This downloads
+                        the label file to your computer so that you can print it.</li>
+                <li>After the download is complete, find and then open the file on your
+                        computer.</li>
+                <li>After you've opened the file, click <b>Print</b>.</li>
+                <li>In the print dialog, select the printer you want to use to print the
+                        label.</li>
+                <li>Select the a paper size that matches the printer you're using to print the
+                        label. If you're <xref
+                            href="/manual/shipping/shopify-shipping/label-printers" format="html"
+                            >using a label printer</xref>, select <b>4" x 6"</b>. If you're using a
+                        desktop printer, select <b>8.5" x 11"</b>.</li>
+                <li>After you've chosen the correct printer and paper size, click
+                        <b>Print</b>.</li>
+            </ol>
+        </body>
+    </topic>
+</topic>
