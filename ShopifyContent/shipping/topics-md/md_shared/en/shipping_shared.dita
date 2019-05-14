@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="shipping_shared">
+    <title>Shared Shipping Content</title>
+    <body>
+        <section>
+            <ol>
+                <li id="orders">From your Shopify admin, go to <b>Orders</b>.</li>
+            </ol>
+            <p/>
+        </section>
+        <section>
+            <note type="other" othertype="information" id="link-to-more-videos">
+                <p>To see more videos, visit our <xref
+                        href="https://www.youtube.com/channel/UCSG_dVp-hi_hWP-Z7DlpRgQ"
+                        format="html" scope="external">YouTube channel</xref>.</p>
+            </note>
+        </section>
+    </body>
+</topic>
