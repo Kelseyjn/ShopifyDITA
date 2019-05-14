@@ -15,5 +15,25 @@
                         format="html" scope="external">YouTube channel</xref>.</p>
             </note>
         </section>
-    </body>
+
+        <section id="settings-shipping">
+          <section platform="Desktop">
+            <ol>
+                <li>From your Shopify admin, go to <b>Settings</b> > <b>Shipping</b>.</li>
+            </ol>
+          </section>
+          <section platform="iPhone">
+            <ol>
+                <li>From the [Shopify app](https://www.shopify.com/install/detect), go to <b>Store</b> > <b>Settings</b>.</li>
+                <li>Under <b>Store settings</b>, tap <b>Shipping</b>.</li>
+            </ol>
+          </section>
+          <section platform="Android">
+            <ol>
+                <li>From the [Shopify app](https://www.shopify.com/install/detect), go to <b>Store</b> > <b>Settings</b>.</li>
+                <li>Under <b>Store settings</b>, tap <b>Shipping</b>.</li>
+            </ol>
+          </section>          
+      </section>
+  </body>
 </topic>
