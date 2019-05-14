@@ -30,8 +30,8 @@
             format="markdown"/>
         <topicref href="../../topics-md/md_src/en/shopify-shipping/show-rates-at-checkout.md"
             format="markdown"/>
-        <topicref href="../../topics-md/md_src/en/shopify-shipping/buy-and-print.md"
-            format="markdown"/>
+        <topicref href="../../topics-md/md_src/en/shopify-shipping/buy-and-print.dita"
+            format="dita"/>
         <topicref href="../../topics-md/md_src/en/shopify-shipping/return-labels.md"
             format="markdown"/>
         <topicref href="../../topics-md/md_src/en/shopify-shipping/shipping-price-adjustments.md"
