@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="return-labels">
+    <title>Return labels</title>
+    <shortdesc>Create and send return labels from your Shopify admin or the Shopify app.</shortdesc>
+    <prolog>
+        <metadata>
+            <keywords>
+                <keyword>return labels</keyword>
+                <keyword>returns</keyword>
+                <keyword>refund</keyword>
+                <keyword>paying for return labels</keyword>
+            </keywords>
+        </metadata>
+        <data name="gid" value="9c59b9dc-96b7-4168-b821-214f4ccc98b3"/>
+        <data name="url"
+            value="https://help.shopify.com/en/manual/shipping/shopify-shipping/return-labels"/>
+        <data name="weight" value="4"/>
+    </prolog>
+    <body>
+        <note>
+            <p>Return labels are only available for US domestic orders. US military addresses or US
+                territories that require a customs form aren't supported.</p>
+        </note>
+        <p>To offer returns to your customers, you can create and send return labels in your Shopify
+            admin. After you create a return label, you can send it by email directly from the
+            Shopify admin or copy a link to print the label.</p>
+        <p>When you are creating a return label, you can select the shipping method and use your
+            discounted shipping rates from USPS. If you’ve <xref
+                href="https://help.shopify.com/en/manual/shipping/rates-and-methods/custom-calculated-rates/ups"
+                format="html" scope="external">connected your UPS account to Shopify</xref>, then
+            you can <xref
+                href="https://help.shopify.com/en/manual/shipping/rates-and-methods/custom-calculated-rates/ups/buy-labels-with-your-ups-account"
+                format="html" scope="external">create UPS return labels using your own account
+                rates</xref> and you are billed directly by UPS.</p>
+    </body>
+    <topic id="setting-up-your-return-policy">
+        <title>Setting up your return policy</title>
+        <body>
+            <p>Before you create return labels consider adding information about returns to your
+                    <xref
+                    href="https://help.shopify.com/en/manual/checkout-settings/refund-privacy-tos"
+                    format="html" scope="external">refund policy in your Shopify store</xref>.</p>
+        </body>
+    </topic>
+    <topic id="paying-for-return-labels">
+        <title>Paying for return labels</title>
+        <body>
+            <p>Return labels use a technology called pay on scan. This means that the shipping
+                carrier weighs and measures the package when they receive it, and then calculate the
+                cost.</p>
+            <p>The cost of a return label is only added to your Shopify account after the carrier
+                scans the package. Your account is charged when you reach a billing threshold that's
+                determined by your current Shopify plan. To learn more about how you're billed for
+                shipping labels, contact <xref href="https://help.shopify.com/questions"
+                    format="html" scope="external">Shopify Support</xref>.</p>
+            <note type="tip">
+                <p>Return labels don't expire and cannot be voided, however you aren't charged for
+                    unused labels.</p>
+            </note>
+        </body>
+    </topic>
+    <topic id="create-and-send-return-label">
+        <title>Create and send return label</title>
+        <body>
+            <p>You can create a return label from the order page in your Shopify admin or the
+                Shopify app. After you create a return label, you can send it to your customers, or
+                by sending them a link to print the label.</p>
+            <p>
+                <object width="800" height="450" data="https://www.youtube.com/embed/q4wfm3pmpNY"/>
+            </p>
+            <note type="other" othertype="information"
+                conref="../../../md_shared/en/shipping_shared.dita#shipping_shared/link-to-more-videos"
+            />
+        </body>
+        <topic id="steps">
+            <title>Steps:</title>
+            <body>
+                <section platform="Desktop">
+                    <ol>
+                        <li
+                            conref="../../../md_shared/en/shipping_shared.dita#shipping_shared/gotoorders"/>
+                        <li><p>Click the order number.</p></li>
+                        <li><p>Click <b>More actions</b> &gt; <b>Create return label</b>.</p></li>
+                        <li><p>Select the expected package size.</p></li>
+                        <li><p>Add the weight of the order to the <b>expected weight</b>.</p></li>
+                        <li><p>Select a shipping method.</p></li>
+                        <li><p>Click <b>Create return label</b>.</p></li>
+                        <li><p>Select the way you want to share the return label with your
+                                customer:</p>
+                            <ul>
+                                <li><p>Confirm your customer's email and click <b>Email
+                                        customer</b>.</p></li>
+                                <li><p>Click <b>Copy link</b> and send it separately in existing
+                                        email or message thread.</p></li>
+                                <li><p>Click <b>Print label</b> and send it with the order.</p></li>
+                            </ul>
+                        </li>
+                        <li><p>Click <b>Done</b>.</p></li>
+                    </ol>
+                </section>
+                <section platform="iPhone">
+                    <ol>
+                        <li><p>From the <xref href="https://www.shopify.com/install/detect"
+                                    format="html" scope="external">Shopify app</xref>, tap
+                                    <b>Orders</b>.</p></li>
+                        <li><p>Tap the order number.</p></li>
+                        <li><p>Tap <b>More actions</b> &gt; <b>Create return label</b>.</p></li>
+                        <li><p>Select the expected package size.</p></li>
+                        <li><p>Add the weight of the order to the <b>expected weight</b>.</p></li>
+                        <li><p>Select a shipping method.</p></li>
+                        <li><p>Tap <b>Create return label</b>.</p></li>
+                        <li><p>Select the way you want to share the return label with your
+                                customer:</p>
+                            <ul>
+                                <li><p>Confirm your customer's email and tap <b>Email
+                                        customer</b>.</p></li>
+                                <li><p>Tap <b>Copy link</b> and send it separately in existing email
+                                        or message thread.</p></li>
+                                <li><p>Tap <b>Print label</b> and send it with the order.</p></li>
+                            </ul>
+                        </li>
+                        <li><p>Tap <b>Done</b>.</p></li>
+                    </ol>
+                </section>
+                <section platform="Android">
+                    <ol>
+                        <li><p>From the <xref href="https://www.shopify.com/install/detect"
+                                    format="html" scope="external">Shopify app</xref>, tap
+                                    <b>Orders</b>.</p></li>
+                        <li><p>Tap the order number.</p></li>
+                        <li><p>Tap <b>More actions</b> &gt; <b>Create return label</b>.</p></li>
+                        <li><p>Select the expected package size.</p></li>
+                        <li><p>Add the weight of the order to the <b>expected weight</b>.</p></li>
+                        <li><p>Select a shipping method.</p></li>
+                        <li><p>Tap <b>Create return label</b>.</p></li>
+                        <li><p>Select the way you want to share the return label with your
+                                customer:</p>
+                            <ul>
+                                <li><p>Confirm your customer's email and tap <b>Email
+                                        customer</b>.</p></li>
+                                <li><p>Tap <b>Copy link</b> and send it separately in existing email
+                                        or message thread.</p></li>
+                                <li><p>Tap <b>Print label</b> and send it with the order.</p></li>
+                            </ul>
+                        </li>
+                        <li><p>Tap <b>Done</b>.</p></li>
+                    </ol>
+                </section>
+            </body>
+        </topic>
+    </topic>
+    <topic id="resend-a-return-label">
+        <title>Resend a return label</title>
+        <body>
+            <p>You can resend the email notification or copy the link to the label at any time.</p>
+        </body>
+        <topic id="steps-1">
+            <title>Steps:</title>
+            <body>
+                <section platform="Desktop">
+                    <ol>
+                        <li
+                            conref="../../../md_shared/en/shipping_shared.dita#shipping_shared/gotoorders"/>
+                        <li><p>Click the order number.</p></li>
+                        <li><p>On the <b>Return label</b> section, click <b>View
+                            details</b></p></li>
+                        <li><p>Select the way you want to share the return label with your
+                                customer:</p>
+                            <ul>
+                                <li><p>Confirm your customer's email and click <b>Email
+                                        customer</b>.</p></li>
+                                <li><p>Click <b>Copy link</b> and send it separately in existing
+                                        email or message thread.</p></li>
+                                <li><p>Click <b>Print label</b> and send it with the order.</p></li>
+                            </ul>
+                        </li>
+                        <li><p>Click <b>Done</b>.</p></li>
+                    </ol>
+                </section>
+                <section platform="iPhone">
+                    <ol>
+                        <li><p>From the <xref href="https://www.shopify.com/install/detect"
+                                    format="html" scope="external">Shopify app</xref>, tap
+                                    <b>Orders</b>.</p></li>
+                        <li><p>Tap the order number.</p></li>
+                        <li><p>On the <b>Return label</b> section, tap <b>View details</b></p></li>
+                        <li><p>Select the way you want to share the return label with your
+                                customer:</p>
+                            <ul>
+                                <li><p>Confirm your customer's email and tap <b>Email
+                                        customer</b>.</p></li>
+                                <li><p>Tap <b>Copy link</b> and send it separately in existing email
+                                        or message thread.</p></li>
+                                <li><p>Tap <b>Print label</b> and send it with the order.</p></li>
+                            </ul>
+                        </li>
+                        <li><p>Tap <b>Done</b>.</p></li>
+                    </ol>
+                </section>
+                <section platform="Android">
+                    <ol>
+                        <li><p>From the <xref href="https://www.shopify.com/install/detect"
+                                    format="html" scope="external">Shopify app</xref>, tap
+                                    <b>Orders</b>.</p></li>
+                        <li><p>Tap the order number.</p></li>
+                        <li><p>On the <b>Return label</b> section, tap <b>View details</b></p></li>
+                        <li><p>Select the way you want to share the return label with your
+                                customer:</p>
+                            <ul>
+                                <li><p>Confirm your customer's email and tap <b>Email
+                                        customer</b>.</p></li>
+                                <li><p>Tap <b>Copy link</b> and send it separately in existing email
+                                        or message thread.</p></li>
+                                <li><p>Tap <b>Print label</b> and send it with the order.</p></li>
+                            </ul>
+                        </li>
+                        <li><p>Tap <b>Done</b>.</p></li>
+                    </ol>
+                </section>
+            </body>
+        </topic>
+    </topic>
+    <topic id="customize-your-return-label-instructions">
+        <title>Customize your return label instructions</title>
+        <body>
+            <ol>
+                <li><p>In the <b>Customer Notification</b> section, under <b>Shipping</b>, click
+                            <b>Return label instructions</b>.</p></li>
+                <li><p>Edit the <b>Email subject</b> and <b>Email body</b>. For example, if you want
+                        to change the return instructions, then find
+                            <codeph>return-label__instruction-step</codeph> and edit the
+                    steps.</p></li>
+                <li><p>Click <b>Save</b>.</p></li>
+            </ol>
+            <p>For more information about using Liquid variables to automatically add information to
+                your return label instructions, see the <xref
+                    href="https://help.shopify.com/en/manual/sell-online/notifications/email-variables"
+                    format="html" scope="external">notification variables reference</xref>.</p>
+        </body>
+    </topic>
+    <topic id="frequently-asked-questions">
+        <title>Frequently asked questions</title>
+        <body/>
+        <topic id="can-i-void-an-unused-label">
+            <title>Can I void an unused label?</title>
+            <body>
+                <p>No. Return labels don't expire and cannot be voided, however you aren't charged
+                    for unused labels.</p>
+            </body>
+        </topic>
+        <topic id="why-cant-i-see-create-return-label-on-the-order-page">
+            <title>Why can't I see Create return label on the order page?</title>
+            <body>
+                <p>If you don’t see the <b>Create return label</b> option in the <b>More actions</b>
+                    menu, then you might not have any fulfilled items. Creating a return label
+                    requires at least one item to be fulfilled.</p>
+                <p>Your store also may not be eligible for return labels. To qualify, your shipping
+                    origin must be located in the United States. <xref
+                        href="https://help.shopify.com/en/manual/shipping/understanding-shipping/initial-setup#change-the-shipping-origin"
+                        format="html" scope="external">Learn how to change your shipping
+                        origin</xref>.</p>
+            </body>
+        </topic>
+        <topic id="can-i-create-a-return-label-for-an-international-order">
+            <title>Can I create a return label for an international order?</title>
+            <body>
+                <p>No. Return labels are only available for domestic orders at this time.</p>
+            </body>
+        </topic>
+    </topic>
+</topic>
