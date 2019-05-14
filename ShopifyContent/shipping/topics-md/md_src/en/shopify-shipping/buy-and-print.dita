@@ -46,7 +46,7 @@
             app. After you buy a label, you can <xref class="- topic/xref "
                 href="#print-a-test-label" format="html">print</xref> or <xref class="- topic/xref "
                 href="#void-a-shipping-label" format="html">void</xref> it from the order page.</p>
-        <note type="other" othertype="information">
+        <note type="other" othertype="Information">
             <p class="- topic/p ">Shipping rates are calculated based on the weight of
                 the products you're shipping. If you <xref class="- topic/xref "
                     href="https://help.shopify.com/manual/products/add-update-products"
@@ -59,16 +59,15 @@
         </note>
         <p class="- topic/p "><object width="800" height="450"
                 data="https://www.youtube.com/embed/WQUQHB0Ow5Q"/></p>
-        <p class="- topic/p ">
-            <!--conref class="- topic/conref ">link-to-more-videos.md</conref-->
-        </p>
+        <note conref="../../../md_shared/en/shipping_shared.dita#shipping_shared/link-to-more-videos">
+        </note>
     </body>
     <topic id="print-a-test-label">
         <title class="- topic/title ">Print a test label</title>
         <body class="- topic/body ">
             <p class="- topic/p ">You can print a test shipping label to make sure that your printer
                 is set up properly. You will not be charged for printing a test label.</p>
-            <note type="other" othertype="information">
+            <note type="other" othertype="Information">
                 <p class="- topic/p ">You can also print a test label by visiting the
                         <xref class="- topic/xref "
                         href="https://cdn.shopify.com/s/assets/admin/shipping/test-label--usps-4_x_6_PNG-7ec2736fc2f2217940be4a8a4d28cc623f0f0a7d4485eed298c30ade84db013a.pdf"
@@ -221,7 +220,7 @@
                                 class="+ topic/ph hi-d/b ">Add a package</b> dialog, enter the
                             information about your new package type, and then click <b
                                 class="+ topic/ph hi-d/b ">Add package</b>. <note type="other"
-                                othertype="information">
+                                othertype="Information">
                                 <p class="- topic/p ">Some mail types have restrictions
                                     on the size of the packages that you can use to ship your
                                     products. A notice about applicable size restrictions will
@@ -309,7 +308,7 @@
                             the weight of your shipment in the <b class="+ topic/ph hi-d/b ">Total
                                 weight</b> field. If you want to add a new package, then tap <b
                                 class="+ topic/ph hi-d/b ">Add package</b> and enter the new package
-                            size and weight. <note type="other" othertype="information"> <p
+                            size and weight. <note type="other" othertype="Information"> <p
                                     class="- topic/p ">Some mail types have
                                     restrictions on the size of the packages that you can use to
                                     ship your products. A notice about applicable size restrictions
@@ -349,7 +348,7 @@
                             the weight of your shipment in the <b class="+ topic/ph hi-d/b ">Total
                                 weight</b> field. If you want to add a new package, then tap <b
                                 class="+ topic/ph hi-d/b ">Add package</b> and enter the new package
-                            size and weight. <note type="other" othertype="information">
+                            size and weight. <note type="other" othertype="Information">
                                 <p class="- topic/p ">Some mail types have restrictions
                                     on the size of the packages that you can use to ship your
                                     products. A notice about applicable size restrictions will
@@ -760,8 +759,8 @@
                     <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Fulfilled</b>
                         section, click <b class="+ topic/ph hi-d/b ">More</b>, and then click <b
                             class="+ topic/ph hi-d/b ">Void label</b>: <note>
-                            <p class="- topic/p ">You can also void a shipping label from the
-                                    <b class="+ topic/ph hi-d/b ">Timeline</b> section of an order's
+                            <p class="- topic/p ">You can also void a shipping label from the <b
+                                    class="+ topic/ph hi-d/b ">Timeline</b> section of an order's
                                 page using the <b class="+ topic/ph hi-d/b ">Manage shipment</b>
                                 drop-down menu.</p>
                         </note>
