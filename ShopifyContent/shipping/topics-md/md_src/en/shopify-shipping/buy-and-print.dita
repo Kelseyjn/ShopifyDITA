@@ -4,7 +4,11 @@
 <topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
     id="buy-and-print-shipping-labels">
     <title class="- topic/title ">Buy and print shipping labels</title>
-    <prolog class="- topic/prolog ">
+    <titlealts>
+        <searchtitle>Buy and print shipping labels</searchtitle>
+    </titlealts>
+    <shortdesc>Buy and print shipping labels in your Shopify admin or the Shopify app</shortdesc>
+  <prolog class="- topic/prolog ">
         <metadata class="- topic/metadata ">
             <keywords class="- topic/keywords ">
                 <keyword class="- topic/keyword ">printing</keyword>
@@ -21,12 +25,8 @@
                 <keyword class="- topic/keyword ">forms</keyword>
             </keywords>
         </metadata>
-        <data class="- topic/data " name="description"
-            value="Buy and print shipping labels in your Shopify admin or the Shopify app"/>
         <data class="- topic/data " name="gid" value="3d8b2971-607a-4d21-8934-b6dde6e1c88a"/>
         <data class="- topic/data " name="legacy-urls" value="/manual/shipping/labels/buy-and-print"/>
-        <data class="- topic/data " name="short_title" value="Buy and print shipping labels"/>
-        <data class="- topic/data " name="title" value="Buy and print shipping labels"/>
         <data class="- topic/data " name="url"
             value="/en/manual/shipping/shopify-shipping/buy-and-print"/>
         <data class="- topic/data " name="weight" value="3"/>
