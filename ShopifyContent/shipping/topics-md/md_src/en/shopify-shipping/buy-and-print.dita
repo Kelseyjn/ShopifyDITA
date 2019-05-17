@@ -2,818 +2,770 @@
 <!DOCTYPE topic
   PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-    id="buy-and-print-shipping-labels">
-    <title class="- topic/title ">Buy and print shipping labels</title>
-    <titlealts>
-        <searchtitle>Buy and print shipping labels</searchtitle>
-    </titlealts>
-    <shortdesc>Buy and print shipping labels in your Shopify admin or the Shopify app</shortdesc>
-  <prolog class="- topic/prolog ">
-        <metadata class="- topic/metadata ">
-            <keywords class="- topic/keywords ">
-                <keyword class="- topic/keyword ">printing</keyword>
-                <keyword class="- topic/keyword ">labels</keyword>
-                <keyword class="- topic/keyword ">shipping</keyword>
-                <keyword class="- topic/keyword ">voiding</keyword>
-                <keyword class="- topic/keyword ">buying</keyword>
-                <keyword class="- topic/keyword ">testing</keyword>
-                <keyword class="- topic/keyword ">canceling</keyword>
-                <keyword class="- topic/keyword ">cancelling</keyword>
-                <keyword class="- topic/keyword ">voiding</keyword>
-                <keyword class="- topic/keyword ">void</keyword>
-                <keyword class="- topic/keyword ">customs</keyword>
-                <keyword class="- topic/keyword ">forms</keyword>
-            </keywords>
-        </metadata>
-        <data class="- topic/data " name="gid" value="3d8b2971-607a-4d21-8934-b6dde6e1c88a"/>
-        <data class="- topic/data " name="legacy-urls" value="/manual/shipping/labels/buy-and-print"/>
-        <data class="- topic/data " name="url"
-            value="/en/manual/shipping/shopify-shipping/buy-and-print"/>
-        <data class="- topic/data " name="weight" value="3"/>
-    </prolog>
-    <body class="- topic/body ">
-        <p class="- topic/p ">Shopify Shipping is available for orders shipped from fulfillment
-            locations in the United States (USPS, DHL Express, and UPS) and Canada (Canada Post).
-            UPS doesn't support P.O. box addresses. You need to update your address to a street
-            address to create and send shipping labels. If your fulfillment locations aren't based
-            in the US or Canada, then use a <xref class="- topic/xref "
-                href="https://apps.shopify.com/search?q=shipping+label" format="html"
-                scope="external">shipping label app</xref> instead.</p>
-        <p class="- topic/p ">If you use Shopify Shipping, then you can buy shipping labels when
-            you're <xref class="- topic/xref "
-                href="https://help.shopify.com/manual/orders/fulfill-orders/" format="html"
-                scope="external">fulfilling an order</xref> in your Shopify admin or the Shopify
-            app. After you buy a label, you can <xref class="- topic/xref "
-                href="#print-a-test-label" format="html">print</xref> or <xref class="- topic/xref "
-                href="#void-a-shipping-label" format="html">void</xref> it from the order page.</p>
-        <note type="other" othertype="Information">
-            <p class="- topic/p ">Shipping rates are calculated based on the weight of
-                the products you're shipping. If you <xref class="- topic/xref "
-                    href="https://help.shopify.com/manual/products/add-update-products"
-                    format="html" scope="external">add product weights</xref> when you create new
-                products or <xref class="- topic/xref "
-                    href="https://help.shopify.com/manual/productivity-tools/bulk-editing-products"
-                    format="html" scope="external">use the bulk editor</xref> to update the product
-                weights in your current inventory, then you're more likely to receive correct
-                shipping rates when you're fulfilling your orders.</p>
-        </note>
-        <p class="- topic/p "><object width="800" height="450"
-                data="https://www.youtube.com/embed/WQUQHB0Ow5Q"/></p>
-        <note conref="../../../md_shared/en/shipping_shared.dita#shipping_shared/link-to-more-videos">
-        </note>
-    </body>
-    <topic id="print-a-test-label">
-        <title class="- topic/title ">Print a test label</title>
-        <body class="- topic/body ">
-            <p class="- topic/p ">You can print a test shipping label to make sure that your printer
-                is set up properly. You will not be charged for printing a test label.</p>
-            <note type="other" othertype="Information">
-                <p class="- topic/p ">You can also print a test label by visiting the
-                        <xref class="- topic/xref "
-                        href="https://cdn.shopify.com/s/assets/admin/shipping/test-label--usps-4_x_6_PNG-7ec2736fc2f2217940be4a8a4d28cc623f0f0a7d4485eed298c30ade84db013a.pdf"
-                        format="pdf" scope="external">test label page</xref> directly.</p>
-            </note>
-        </body>
-        <topic id="steps">
-            <title class="- topic/title ">Steps:</title>
-            <body class="- topic/body ">
-                <section platform="Desktop">
-                    <ol class="- topic/ol ">
-                        <li class="- topic/li ">From your Shopify admin, click <b
-                                class="+ topic/ph hi-d/b ">Settings</b>, and then click <b
-                                class="+ topic/ph hi-d/b ">Shipping</b>.</li>
-                        <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Shipping
-                                labels</b> section, click <b class="+ topic/ph hi-d/b ">Print test
-                                label</b>.</li>
-                        <li class="- topic/li ">If the label downloads to your computer, then find
-                            the file on your computer and open it. If the label opens in a new tab
-                            in your browser, then open the tab.</li>
-                        <li class="- topic/li ">Find the print option for the test label, then
-                            select it.</li>
-                        <li class="- topic/li ">In the print dialog, select the printer you want to
-                            use to print the label.</li>
-                        <li class="- topic/li ">Select the paper size that matches the printer
-                            you're using to print the label. If you're <xref class="- topic/xref "
-                                href="https://help.shopify.com/manual/shipping/shopify-shipping/label-printers"
-                                format="html" scope="external">using a label printer</xref>, then
-                            select <b class="+ topic/ph hi-d/b ">4" x 6"</b>. If you're using a
-                            desktop printer, select <b class="+ topic/ph hi-d/b ">8.5" x
-                            11"</b>.</li>
-                        <li class="- topic/li ">After you've chosen the correct printer and paper
-                            size, click <b class="+ topic/ph hi-d/b ">Print</b>.</li>
-                    </ol>
-                </section>
-                <section platform="iPhone">
-                    <ol class="- topic/ol ">
-                        <li class="- topic/li ">From the <xref class="- topic/xref "
-                                href="https://www.shopify.com/install/detect" format="html"
-                                scope="external">Shopify app</xref>, go to <b
-                                class="+ topic/ph hi-d/b ">Store</b> &gt; <b
-                                class="+ topic/ph hi-d/b ">Settings</b>.</li>
-                        <li class="- topic/li ">Under <b class="+ topic/ph hi-d/b ">Store
-                                settings</b>, tap <b class="+ topic/ph hi-d/b ">Shipping</b>.</li>
-                        <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Label
-                                format</b> section, select the correct paper size for your printer.
-                            If you're <xref class="- topic/xref "
-                                href="https://help.shopify.com/manual/shipping/shopify-shipping/label-printers"
-                                format="html" scope="external">using a label printer</xref>, then
-                            select <b class="+ topic/ph hi-d/b ">4" x 6"</b>. If you're using a
-                            desktop printer, then select <b class="+ topic/ph hi-d/b ">8.5" x
-                                11"</b>.</li>
-                        <li class="- topic/li ">Tap <b class="+ topic/ph hi-d/b ">Print test
-                                label</b>.</li>
-                        <li class="- topic/li ">Tap <b class="+ topic/ph hi-d/b ">Printer</b>, then
-                            select your printer.</li>
-                        <li class="- topic/li ">Tap <b class="+ topic/ph hi-d/b ">Print</b>.</li>
-                    </ol>
-                </section>
-                <section platform="Android">
-                    <ol class="- topic/ol ">
-                        <li class="- topic/li ">From the <xref class="- topic/xref "
-                                href="https://www.shopify.com/install/detect" format="html"
-                                scope="external">Shopify app</xref>, go to <b
-                                class="+ topic/ph hi-d/b ">Store</b> &gt; <b
-                                class="+ topic/ph hi-d/b ">Settings</b>.</li>
-                        <li class="- topic/li ">Under <b class="+ topic/ph hi-d/b ">Store
-                                settings</b>, tap <b class="+ topic/ph hi-d/b ">Shipping</b>.</li>
-                        <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Label
-                                format</b> section, select the correct paper size for your printer.
-                            If you're <xref class="- topic/xref "
-                                href="https://help.shopify.com/manual/shipping/shopify-shipping/label-printers"
-                                format="html" scope="external">using a label printer</xref>, then
-                            select <b class="+ topic/ph hi-d/b ">4" x 6"</b>. If you're using a
-                            desktop printer, then select <b class="+ topic/ph hi-d/b ">8.5" x
-                                11"</b>.</li>
-                        <li class="- topic/li ">Tap <b class="+ topic/ph hi-d/b ">Print test
-                                label</b>. <note>
-                                <p class="- topic/p ">If you're using Google Chrome, then your
-                                    shipping label might automatically download to your device
-                                    instead of opening a print dialog. Find the file in your <b
-                                        class="+ topic/ph hi-d/b ">Downloads</b> folder and open
-                                    it.</p>
-                            </note>
-                        </li>
-                        <li class="- topic/li ">Tap <codeph class="+ topic/ph pr-d/codeph "/> to
-                            expand the menu, then select <b class="+ topic/ph hi-d/b ">Print</b>:
-                                <image class="- topic/image "
-                                href="https://help.shopify.com/manual/shipping/shipping-label-print-preview-android.png">
-                                <alt class="- topic/alt ">Expanded drop-down menu showing the
-                                    "Print" button location</alt>
-                            </image>
-                        </li>
-                        <li class="- topic/li ">In the print preview, select your printer from the
-                            drop-down menu, then tap <b class="+ topic/ph hi-d/b ">Print</b>.</li>
-                    </ol>
-                </section>
-            </body>
-        </topic>
-    </topic>
-    <topic id="buy-a-shipping-label">
-        <title class="- topic/title ">Buy a shipping label</title>
-        <body class="- topic/body ">
-            <p class="- topic/p ">The cost of shipping labels is based on the <xref
-                    class="- topic/xref "
-                    href="https://help.shopify.com/manual/shipping/shopify-shipping/rates"
-                    format="html" scope="external">rates offered by UPS, DHL, USPS or Canada
-                    Post</xref>.</p>
-            <note>
-                <p class="- topic/p ">If you are dropshipping, or a third-party ships out
-                    products on your behalf, then you don't need to purchase a shipping label unless
-                    your fulfillment service requests one. To learn more, visit our <xref
-                        class="- topic/xref "
-                        href="https://help.shopify.com/manual/orders/fulfill-orders#fulfillment-through-a-third-party-service"
-                        format="html" scope="external">
-                        <i class="+ topic/ph hi-d/i ">fulfillment through a third-party service</i>
-                    </xref> section.</p>
-            </note>
-        </body>
-        <topic id="steps-1">
-            <title class="- topic/title ">Steps:</title>
-            <body class="- topic/body ">
-                <section platform="Desktop">
-                    <p class="- topic/p ">
-                        <ol>
-                            <li conref="../../../md_shared/en/shipping_shared.dita#shipping_shared/orders"></li>
-                        </ol>
-                    </p>
-                    <ol class="- topic/ol ">
-                        <li class="- topic/li ">Click an order that contains unfulfilled items.</li>
-                        <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Unfulfilled</b>
-                            section, click <b class="+ topic/ph hi-d/b ">Create shipping
-                            label</b>.</li>
-                        <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Items</b>
-                            section, confirm the number of items you want to include in this
-                            fulfillment. If you want to ship the customer's order using more than
-                            one fulfillment, then reduce the quantity of each item that you don't
-                            want to ship in this fulfillment to zero. You can buy an additional
-                            shipping label for each fulfillment that's required to complete the
-                            entire order.</li>
-                        <li class="- topic/li ">Select a package from the <b
-                                class="+ topic/ph hi-d/b ">Package</b> drop-down menu, and then
-                            enter the weight of your shipment in the <b class="+ topic/ph hi-d/b "
-                                >Total weight</b> text box: <image class="- topic/image "
-                                href="https://help.shopify.com/manual/settings/shipping/shipping-label-package-and-weight.png">
-                                <alt class="- topic/alt ">All fields in the "Package and weight"
-                                    section</alt>
-                            </image> If you want to add a new package type, then click <b
-                                class="+ topic/ph hi-d/b ">Add package</b>. In the <b
-                                class="+ topic/ph hi-d/b ">Add a package</b> dialog, enter the
-                            information about your new package type, and then click <b
-                                class="+ topic/ph hi-d/b ">Add package</b>. <note type="other"
-                                othertype="Information">
-                                <p class="- topic/p ">Some mail types have restrictions
-                                    on the size of the packages that you can use to ship your
-                                    products. A notice about applicable size restrictions will
-                                    appear on the <b class="+ topic/ph hi-d/b ">Add a package</b>
-                                    dialog when you create a new package type.</p>
-                            </note>
-                        </li>
-                        <li class="- topic/li ">Select a shipping method in the <b
-                                class="+ topic/ph hi-d/b ">Shipping Service</b> section.</li>
-                        <li class="- topic/li ">If you're shipping internationally, then you need to
-                            complete the <b class="+ topic/ph hi-d/b ">Customs declaration</b> form:
-                                <image class="- topic/image "
-                                href="https://help.shopify.com/manual/shipping/customs-information.jpg">
-                                <alt class="- topic/alt ">Highlighted location of the "Edit customs
-                                    information" button</alt>
-                            </image>
-                            <note>
-                                <p class="- topic/p ">You can find the required customs codes
-                                    using the United States Trade Commission <xref
-                                        class="- topic/xref " href="https://hts.usitc.gov/"
-                                        format="html" scope="external">HTS search</xref>. Harmonized
-                                    System (HS) codes are 6-digit numbers used internationally to
-                                    classify goods for trade and customs. Learn more about HS codes
-                                    from the <xref class="- topic/xref "
-                                        href="http://www.wcoomd.org/en/topics/nomenclature/overview/what-is-the-harmonized-system.aspx"
-                                        format="aspx" scope="external">World Customs
-                                        Organization</xref>.</p>
-                            </note>
-                        </li>
-                        <li class="- topic/li ">If you're using Shopify Shipping with <xref
-                                class="- topic/xref "
-                                href="https://help.shopify.commanual/shipping/shopify-shipping/shipping-options#signature-required-ups-specific"
-                                format="html" scope="external">UPS</xref>, <xref
-                                class="- topic/xref "
-                                href="https://help.shopify.com/manual/shipping/shopify-shipping/shipping-options/#signature-confirmation-usps-specific"
-                                format="html" scope="external">USPS</xref>, or <xref
-                                class="- topic/xref "
-                                href="https://help.shopify.com/manual/shipping/shopify-shipping/shipping-options/#signature-required-canada-post-specific"
-                                format="html" scope="external">Canada Post</xref>, then Check <b
-                                class="+ topic/ph hi-d/b ">Signature Confirmation</b> or <b
-                                class="+ topic/ph hi-d/b ">Signature required</b> to require a
-                            signature upon delivery.</li>
-                        <li class="- topic/li ">If you're using Shopify Shipping, then you can set a
-                            shipping date and click <b class="+ topic/ph hi-d/b ">Send shipment
-                                details to your customer</b> to automatically send shipment details
-                            to your customers on that date: <image class="- topic/image "
-                                href="https://help.shopify.com/manual/settings/shipping/shipping-date.png">
-                                <alt class="- topic/alt ">All fields in the "Shipping date"
-                                    section</alt>
-                            </image>
-                        </li>
-                        <li class="- topic/li ">If you're using Shopify Shipping with UPS, then you
-                            need to accept the Shopify Shipping UPS Terms.</li>
-                        <li class="- topic/li ">Review your shipping details in the <b
-                                class="+ topic/ph hi-d/b ">Summary</b> section, and then click <b
-                                class="+ topic/ph hi-d/b ">Buy shipping label</b>.</li>
-                    </ol>
-                    <p class="- topic/p ">When you're ready to ship your order, you might be
-                        required to <xref class="- topic/xref "
-                            href="#print-a-customs-declaration-form" format="html">print out the
-                            customs form</xref> separately and affix it to the outside of your
-                        package.</p>
-                </section>
-                <section platform="iPhone">
-                    <ol class="- topic/ol ">
-                        <li class="- topic/li ">From the <xref class="- topic/xref "
-                                href="https://www.shopify.com/install/detect" format="html"
-                                scope="external">Shopify app</xref>, tap <b
-                                class="+ topic/ph hi-d/b ">Orders</b>.</li>
-                        <li class="- topic/li ">Tap the order that you want to fulfill.</li>
-                        <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Unfulfilled</b>
-                            section, tap <b class="+ topic/ph hi-d/b ">Create shipping
-                            label</b>.</li>
-                        <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Shipping
-                                address</b> section, confirm the customer's shipping address. Tap <b
-                                class="+ topic/ph hi-d/b ">Edit shipping address</b> to change the
-                            shipping address or customer name.</li>
-                        <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Items</b>
-                            section, enter the quantity of each item that you want to include in the
-                            shipment. By default, all the order's unfulfilled items are included in
-                            the fulfillment.</li>
-                        <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Package and
-                                weight</b> section, select a package from the <b
-                                class="+ topic/ph hi-d/b ">Package</b> drop-down menu, then enter
-                            the weight of your shipment in the <b class="+ topic/ph hi-d/b ">Total
-                                weight</b> field. If you want to add a new package, then tap <b
-                                class="+ topic/ph hi-d/b ">Add package</b> and enter the new package
-                            size and weight. <note type="other" othertype="Information"> <p
-                                    class="- topic/p ">Some mail types have
-                                    restrictions on the size of the packages that you can use to
-                                    ship your products. A notice about applicable size restrictions
-                                    will appear on the <b class="+ topic/ph hi-d/b ">Add a
-                                        package</b> dialog when you create a new package type.</p>
-                            </note>
-                        </li>
-                        <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Shipping
-                                service</b> section, select a shipping carrier.</li>
-                        <li class="- topic/li ">Optional: Uncheck <b class="+ topic/ph hi-d/b "
-                                >Email shipment details to customer now</b>.</li>
-                        <li class="- topic/li ">Tap <b class="+ topic/ph hi-d/b ">Buy shipping
-                                label</b>.</li>
-                    </ol>
-                </section>
-                <section platform="Android">
-                    <ol class="- topic/ol ">
-                        <li class="- topic/li ">From the <xref class="- topic/xref "
-                                href="https://www.shopify.com/install/detect" format="html"
-                                scope="external">Shopify app</xref>, tap <b
-                                class="+ topic/ph hi-d/b ">Orders</b>.</li>
-                        <li class="- topic/li ">Tap the order that you want to fulfill.</li>
-                        <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Unfulfilled</b>
-                            section, tap <b class="+ topic/ph hi-d/b ">CREATE SHIPPING
-                            LABEL</b>.</li>
-                        <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Shipping
-                                address</b> section, confirm the customer's shipping address. Tap <b
-                                class="+ topic/ph hi-d/b ">Edit shipping address</b> to change the
-                            shipping address or customer name.</li>
-                        <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Items</b>
-                            section, enter the quantity of each item that you want to include in the
-                            shipment. By default, all the order's unfulfilled items are included in
-                            the fulfillment.</li>
-                        <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Package and
-                                weight</b> section, select a package from the <b
-                                class="+ topic/ph hi-d/b ">Package</b> drop-down menu, then enter
-                            the weight of your shipment in the <b class="+ topic/ph hi-d/b ">Total
-                                weight</b> field. If you want to add a new package, then tap <b
-                                class="+ topic/ph hi-d/b ">Add package</b> and enter the new package
-                            size and weight. <note type="other" othertype="Information">
-                                <p class="- topic/p ">Some mail types have restrictions
-                                    on the size of the packages that you can use to ship your
-                                    products. A notice about applicable size restrictions will
-                                    appear on the <b class="+ topic/ph hi-d/b ">Add a package</b>
-                                    dialog when you create a new package type.</p>
-                            </note>
-                        </li>
-                        <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Shipping
-                                service</b> section, select a shipping carrier.</li>
-                        <li class="- topic/li ">Optional: Uncheck <b class="+ topic/ph hi-d/b "
-                                >Email shipment details to customer now</b>.</li>
-                        <li class="- topic/li ">Tap <b class="+ topic/ph hi-d/b ">Buy shipping
-                                label</b>.</li>
-                    </ol>
-                </section>
-                <note>
-                    <p class="- topic/p ">The cost of Canada Post shipping labels is displayed
-                        in CAD, but converted to USD when you are billed through your Shopify
-                        account.</p>
-                </note>
-                <p class="- topic/p ">After you buy a shipping label, the cost is billed to you
-                    through your Shopify account. The total price will appear on your bill and
-                    includes any applicable taxes and fees.</p>
-                <note type="tip">
-                    <p class="- topic/p ">Not all packaging types are eligible to receive a
-                        USPS tracking number. For example, package tracking isn't supported for the
-                        First Class Large Envelope (flat) package type. To learn more, <xref
-                            class="- topic/xref "
-                            href="https://www.usps.com/ship/insurance-extra-services.htm"
-                            format="htm" scope="external">compare the services that USPS offers for
-                            each packaging type</xref> (click <b class="+ topic/ph hi-d/b ">Quick
-                            Compare</b>).</p>
-                </note>
-            </body>
-        </topic>
-        <topic id="print-a-shipping-label">
-            <title class="- topic/title ">Print a shipping label</title>
-            <body class="- topic/body ">
-                <p class="- topic/p ">After you buy a shipping label, you need to print it out and
-                    affix it to the outside of the package you want to ship.</p>
-                <p class="- topic/p ">If you're shipping internationally, then your package might
-                    need a separate <xref class="- topic/xref "
-                        href="#print-a-customs-declaration-form" format="html">customs declaration
-                        form</xref> too.</p>
-                <p class="- topic/p ">You can print shipping labels using a <xref
-                        class="- topic/xref "
-                        href="https://help.shopify.com/manual/shipping/shopify-shipping/label-printers"
-                        format="html" scope="external">supported label printer</xref>, or you can
-                    print them using a desktop printer and affix them to the outside of your package
-                    using a plastic sleeve or packing tape. If you need to change the format of a
-                    shipping label after you've purchased it, then change the label format in your
-                        <xref class="- topic/xref "
-                        href="https://www.shopify.com/admin/settings/shipping" format="html"
-                        scope="external">
-                        <b class="+ topic/ph hi-d/b ">Shipping</b>
-                    </xref> settings, and reprint the label.</p>
-            </body>
-        </topic>
-        <topic id="steps-2">
-            <title class="- topic/title ">Steps:</title>
-            <body class="- topic/body ">
-                <section platform="Desktop">
-                    <p class="- topic/p ">
-                        <ol><li conref="../../../md_shared/en/shipping_shared.dita#shipping_shared/orders"/></ol>
-                    </p>
-                    <ol class="- topic/ol ">
-                        <li class="- topic/li ">Click the number of an order that you've purchased a
-                            shipping label for.</li>
-                        <li class="- topic/li ">Click <b class="+ topic/ph hi-d/b ">More
-                            actions</b>, and then click <b class="+ topic/ph hi-d/b ">Print
-                                label</b>: <image class="- topic/image "
-                                href="https://help.shopify.com/manual/settings/shipping/download-label.png">
-                                <alt class="- topic/alt ">Highlighted location of the "Print label"
-                                    button</alt>
-                            </image>
-                        </li>
-                        <li class="- topic/li ">In the dialog, select the printer that you want to
-                            use to print the label.</li>
-                        <li class="- topic/li ">Select the a paper size that matches the printer
-                            you're using to print the label. If you're <xref class="- topic/xref "
-                                href="https://help.shopify.com/manual/shipping/shopify-shipping/label-printers"
-                                format="html" scope="external">using a label printer</xref>, then
-                            select <b class="+ topic/ph hi-d/b ">4" x 6"</b>. If you're using a
-                            desktop printer, then select <b class="+ topic/ph hi-d/b ">8.5" x
-                                11"</b>.</li>
-                        <li class="- topic/li ">After you've chosen the correct printer and paper
-                            size, click <b class="+ topic/ph hi-d/b ">Print</b>.</li>
-                    </ol>
-                </section>
-                <section platform="iPhone">
-                    <ol class="- topic/ol ">
-                        <li class="- topic/li ">From the <xref class="- topic/xref "
-                                href="https://www.shopify.com/install/detect" format="html"
-                                scope="external">Shopify app</xref>, tap <b
-                                class="+ topic/ph hi-d/b ">Orders</b>.</li>
-                        <li class="- topic/li ">Tap an order that you've purchased a shipping label
-                            for.</li>
-                        <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Fulfilled</b>
-                            section, tap <b class="+ topic/ph hi-d/b ">Print shipping
-                            label</b>.</li>
-                        <li class="- topic/li ">Tap <b class="+ topic/ph hi-d/b ">Printer</b>, then
-                            select your printer.</li>
-                        <li class="- topic/li ">Tap <b class="+ topic/ph hi-d/b ">Print</b>.</li>
-                    </ol>
-                </section>
-                <section platform="Android">
-                    <ol class="- topic/ol ">
-                        <li class="- topic/li ">From the <xref class="- topic/xref "
-                                href="https://www.shopify.com/install/detect" format="html"
-                                scope="external">Shopify app</xref>, tap <b
-                                class="+ topic/ph hi-d/b ">Orders</b>.</li>
-                        <li class="- topic/li ">Tap an order that you've purchased a shipping label
-                            for.</li>
-                        <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Fulfilled</b>
-                            section, tap <b class="+ topic/ph hi-d/b ">PRINT SHIPPING LABEL</b>. <note>
-                                <p class="- topic/p ">If you're using Google Chrome, then your
-                                    shipping label might automatically download to your device
-                                    instead of opening a print dialog. Find the file in your <b
-                                        class="+ topic/ph hi-d/b ">Downloads</b> folder and open
-                                    it.</p>
-                            </note>
-                        </li>
-                        <li class="- topic/li ">Tap <codeph class="+ topic/ph pr-d/codeph "/> to
-                            expand the menu, then select <b class="+ topic/ph hi-d/b ">Print</b>:
-                                <image class="- topic/image "
-                                href="https://help.shopify.com/manual/shipping/shipping-label-print-preview-android.png">
-                                <alt class="- topic/alt ">Expanded drop-down menu showing the
-                                    "Print" button location</alt>
-                            </image>
-                        </li>
-                        <li class="- topic/li ">In the print preview, select your printer from the
-                            drop-down menu, then tap <b class="+ topic/ph hi-d/b ">Print</b>.</li>
-                    </ol>
-                </section>
-            </body>
-        </topic>
-        <topic id="print-a-customs-declaration-form">
-            <title class="- topic/title ">Print a customs declaration form</title>
-            <body class="- topic/body ">
-                <p class="- topic/p ">If you're shipping to an international destination, then you
-                    need to complete a customs declaration form. Some mail types require that you
-                    print a separate customs form for your shipment, and others include the form on
-                    the standard shipping label:</p>
-                <ul class="- topic/ul ">
-                    <li class="- topic/li ">If you use <b class="+ topic/ph hi-d/b ">Priority Mail
-                            International</b> or <b class="+ topic/ph hi-d/b ">Priority Express Mail
-                            International</b>, then you need to print a separate customs form in
-                        addition to the shipping label and affix them both to the outside of your
-                        package.</li>
-                    <li class="- topic/li ">If you use <b class="+ topic/ph hi-d/b ">First Class
-                            Package International Service</b>, <b class="+ topic/ph hi-d/b "
-                            >Priority Mail Flat International flat rate envelopes</b>, or <b
-                            class="+ topic/ph hi-d/b ">Priority Mail International small flat rate
-                            boxes</b>, then the customs declaration is included in the shipping
-                        label itself.</li>
-                </ul>
-                <note>
-                    <p class="- topic/p ">If you <xref class="- topic/xref "
-                            href="#buy-and-print-multiple-shipping-labels" format="html">buy and
-                            print multiple shipping labels</xref> at once, then you can also print
-                        any necessary customs declaration forms during that process.</p>
-                </note>
-            </body>
-        </topic>
-        <topic id="steps-3">
-            <title class="- topic/title ">Steps:</title>
-            <body class="- topic/body ">
-                <section platform="Desktop">
-                    <p class="- topic/p ">
-                        <ol><li conref="../../../md_shared/en/shipping_shared.dita#shipping_shared/orders"></li></ol>
-                    </p>
-                    <ol class="- topic/ol ">
-                        <li class="- topic/li ">Click the number of an international order that
-                            needs a separate customs declaration form.</li>
-                        <li class="- topic/li ">Click <b class="+ topic/ph hi-d/b ">More
-                            actions</b>, and then click <b class="+ topic/ph hi-d/b ">Create
-                                shipping label</b>: <image class="- topic/image "
-                                href="https://help.shopify.com/manual/settings/shipping/fulfill-items-customs.png">
-                                <alt class="- topic/alt ">Highlighted location of the "Create
-                                    shipping label" button</alt>
-                            </image>
-                        </li>
-                        <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Items</b>
-                            section, click <b class="+ topic/ph hi-d/b ">Edit customs
-                                information</b>: <image class="- topic/image "
-                                href="https://help.shopify.com/manual/settings/shipping/customs-information.png">
-                                <alt class="- topic/alt ">Highlighted location of the "Edit customs
-                                    information" button</alt>
-                            </image>
-                        </li>
-                        <li class="- topic/li ">Fill out the <b class="+ topic/ph hi-d/b ">Edit
-                                customs information</b> form, then click <b
-                                class="+ topic/ph hi-d/b ">Save</b>: <image class="- topic/image "
-                                href="https://help.shopify.com/manual/settings/shipping/customs-information-popup.png">
-                                <alt class="- topic/alt ">All fields in the "Edit customs
-                                    information" section</alt>
-                            </image>
-                        </li>
-                        <li class="- topic/li ">When you are ready to purchase the label, click <b
-                                class="+ topic/ph hi-d/b ">Buy shipping label</b>: <image
-                                class="- topic/image "
-                                href="https://help.shopify.com/manual/settings/shipping/customs-buy-label.png">
-                                <alt class="- topic/alt ">"Buy shipping label" button in the Summary
-                                    section</alt>
-                            </image>
-                        </li>
-                        <li class="- topic/li ">Click <b class="+ topic/ph hi-d/b ">Print
-                            label</b>.</li>
-                    </ol>
-                </section>
-                <section platform="iPhone">
-                    <ol class="- topic/ol ">
-                        <li class="- topic/li ">From the <xref class="- topic/xref "
-                                href="https://www.shopify.com/install/detect" format="html"
-                                scope="external">Shopify app</xref>, tap <b
-                                class="+ topic/ph hi-d/b ">Orders</b>.</li>
-                        <li class="- topic/li ">Tap an order that needs a separate customs
-                            declaration form.</li>
-                        <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Unfulfilled</b>
-                            section tap <b class="+ topic/ph hi-d/b ">Create shipping
-                            label</b>.</li>
-                        <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Items</b>
-                            section, tap <b class="+ topic/ph hi-d/b ">Edit customs
-                            information</b>.</li>
-                        <li class="- topic/li ">Fill out the customs information form, then tap <b
-                                class="+ topic/ph hi-d/b ">Save</b>: <image class="- topic/image "
-                                href="https://help.shopify.com/manual/shipping/create-shipping-label-edit-customs-iphone.png">
-                                <alt class="- topic/alt ">All fields in the "Edit customs
-                                    information" section</alt>
-                            </image>
-                        </li>
-                        <li class="- topic/li ">Tap <b class="+ topic/ph hi-d/b ">Buy shipping
-                                label</b> when you are ready to purchase the label.</li>
-                        <li class="- topic/li ">Tap <b class="+ topic/ph hi-d/b ">Print shipping
-                                label</b>.</li>
-                    </ol>
-                </section>
-                <section platform="Android">
-                    <ol class="- topic/ol ">
-                        <li class="- topic/li ">From the <xref class="- topic/xref "
-                                href="https://www.shopify.com/install/detect" format="html"
-                                scope="external">Shopify app</xref>, tap <b
-                                class="+ topic/ph hi-d/b ">Orders</b>.</li>
-                        <li class="- topic/li ">Tap an order that needs a separate customs
-                            declaration form.</li>
-                        <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Unfulfilled</b>
-                            section tap <b class="+ topic/ph hi-d/b ">CREATE SHIPPING
-                            LABEL</b>.</li>
-                        <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Items</b>
-                            section, tap <b class="+ topic/ph hi-d/b ">Edit customs
-                            information</b>.</li>
-                        <li class="- topic/li ">Fill out the customs information form, then tap <b
-                                class="+ topic/ph hi-d/b ">Save</b>: <image class="- topic/image "
-                                href="https://help.shopify.com/manual/shipping/create-shipping-label-edit-customs-android.png">
-                                <alt class="- topic/alt ">All fields in the "Edit customs
-                                    information" section</alt>
-                            </image>
-                        </li>
-                        <li class="- topic/li ">Tap <b class="+ topic/ph hi-d/b ">Buy shipping
-                                label</b> when you are ready to purchase the label.</li>
-                        <li class="- topic/li ">Tap <b class="+ topic/ph hi-d/b ">Print shipping
-                                label</b>.</li>
-                    </ol>
-                </section>
-                <p class="- topic/p ">The customs declaration form will be printed with the shipping
-                    label.</p>
-                <note>
-                    <p class="- topic/p ">International labels can't be purchased using
-                        Shopify Shipping if the line items are valued over $2,500 USD.</p>
-                </note>
-            </body>
-        </topic>
-    </topic>
-    <topic id="buy-and-print-multiple-shipping-labels">
-        <title class="- topic/title ">Buy and print multiple shipping labels</title>
-        <body class="- topic/body ">
-            <p class="- topic/p ">You can buy and print up to 20 shipping labels at a time from the
-                    <xref class="- topic/xref " href="https://www.shopify.com/admin/orders"
-                    format="html" scope="external">
-                    <b class="+ topic/ph hi-d/b ">Orders</b>
-                </xref> page in your Shopify admin. Use the checkboxes to select up to 20 orders
-                that you want to buy shipping labels for.</p>
-            <p class="- topic/p ">The following kinds of orders won't be included when buying
-                shipping labels in bulk:</p>
-            <ul class="- topic/ul ">
-                <li class="- topic/li ">orders that contain only items that do not require
-                    shipping</li>
-                <li class="- topic/li ">orders that don't have a valid shipping address</li>
-                <li class="- topic/li ">orders that are already fulfilled</li>
-            </ul>
-            <p class="- topic/p ">If an order has already been partially fulfilled, then only the
-                unfulfilled items are included in the bulk label purchase.</p>
-        </body>
-    </topic>
-    <topic id="shipping-label-format">
-        <title class="- topic/title ">Shipping label format</title>
-        <body class="- topic/body ">
-            <p class="- topic/p ">The format of a shipping label depends on which carrier and class
-                you choose when you're buying a label. You can't edit the label format because each
-                carrier has specific requirements for their labels.</p>
-            <p class="- topic/p ">If you purchase a label using Shopify Shipping, then it will
-                include the order number that's in your Shopify admin. You can use the order number
-                on the label to match packages to orders more easily. The placement of the order
-                number varies between carriers: <image class="- topic/image "
-                    href="https://help.shopify.com/manual/settings/shipping/order-label-usps.png">
-                    <alt class="- topic/alt ">Highlighted order number location on an example USPS
-                        label</alt>
-                </image>
-                <image class="- topic/image "
-                    href="https://help.shopify.com/manual/settings/shipping/order-label-dhl.png">
-                    <alt class="- topic/alt ">Highlighted order number location on an example DHL
-                        label</alt>
-                </image>
-            </p>
-            <note>
-                <p class="- topic/p ">The order number doesn't appear on USPS First Class
-                    Package International labels.</p>
-            </note>
-            <p class="- topic/p ">To minimize the risk of shipping delays, when you affix the label
-                to the package, all barcodes should be easy to scan. Specifically, you should make
-                sure that barcodes on a shipping-tube label run lengthwise along the tube.</p>
-        </body>
-    </topic>
-    <topic id="change-your-shipping-label-printer-settings">
-        <title class="- topic/title ">Change your shipping label printer settings</title>
-        <body class="- topic/body ">
-            <p class="- topic/p ">If you print a shipping label using the wrong printer settings,
-                then you can change your label settings to the correct printer type, and reprint the
-                shipping label.</p>
-        </body>
-        <topic id="steps-4">
-            <title class="- topic/title ">Steps:</title>
-            <body class="- topic/body ">
-                <section  conref="../../../md_shared/en/shipping_shared.dita#shipping_shared/settings-shipping"/>
-                <ol class="- topic/ol ">
-                    <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Shipping labels</b>
-                        section, select the <b class="+ topic/ph hi-d/b ">Label format</b> that
-                        matches the printer you want to use: <image class="- topic/image "
-                            href="https://help.shopify.com/manual/settings/shipping/printer-type.png">
-                            <alt class="- topic/alt ">All fields in the "Label format" section</alt>
-                        </image>
-                        <p class="- topic/p ">Some labels can be printed only by a certain model of
-                            printer, so make sure that the type of printer that you choose at this
-                            step matches the one that you have:</p>
-                        <table class="- topic/table ">
-                            <tgroup class="- topic/tgroup " cols="2">
-                                <colspec class="- topic/colspec " colname="col1"/>
-                                <colspec class="- topic/colspec " colname="col2"/>
-                                <tbody class="- topic/tbody ">
-                                    <row class="- topic/row ">
-                                        <entry class="- topic/entry ">8.5 × 11 inch paper for
-                                            desktop printers</entry>
-                                        <entry class="- topic/entry ">Outputs the label in PDF file
-                                            format. Choose this if you want to print labels on a
-                                            desktop printer, or if you want to print two labels per
-                                            page when you <xref class="- topic/xref " format="html"
-                                                href="#buy-and-print-multiple-shipping-labels">buy
-                                                multiple shipping labels at once</xref>.</entry>
-                                    </row>
-                                    <row class="- topic/row ">
-                                        <entry class="- topic/entry ">4 × 6 inch label for label
-                                            printers</entry>
-                                        <entry class="- topic/entry ">Outputs the label in PDF file
-                                            format. Choose this if you want to print labels using a
-                                            label printer (Dymo, Rollo, or other). </entry>
-                                    </row>
-                                </tbody>
-                            </tgroup>
-                        </table>
-                    </li>
-                </ol>
-                <p class="- topic/p ">After you've changed your label printer settings, you can
-                    reprint the shipping label whose format you want to change. You don't need to
-                    void and repurchase the label before you reprint it in the new format.</p>
-            </body>
-        </topic>
-    </topic>
-    <topic id="void-a-shipping-label">
-        <title class="- topic/title ">Void a shipping label</title>
-        <body class="- topic/body ">
-            <p class="- topic/p ">You can void a shipping label after you've bought it, as long
-                as:</p>
-            <ul class="- topic/ul ">
-                <li class="- topic/li ">it's been less than 30 days since you bought the label</li>
-                <li class="- topic/li ">the package hasn't already been shipped by your
-                    carrier.</li>
-            </ul>
-            <p class="- topic/p ">After you void a shipping label, the cost of the label is credited
-                to your account. This amount will be applied to the cost of any shipping labels that
-                you buy in the future. If the package has been shipped, then contact the carrier
-                with the package reference number for help.</p>
-            <p class="- topic/p "><object width="800" height="450"
-                    data="https://www.youtube.com/embed/tc7B1_r5v-Y"/></p>
-            <p class="- topic/p ">
-                <!--conref class="- topic/conref ">link-to-more-videos.md</conref-->
-            </p>
-            <p class="- topic/p ">To void a shipping label:</p>
-            <p class="- topic/p ">{{ sections "Desktop, iPhone, Android" }}</p>
+   id="buy-and-print-shipping-labels">
+   <title class="- topic/title ">Buy and print shipping labels</title>
+   <titlealts>
+      <searchtitle>Buy and print shipping labels</searchtitle>
+   </titlealts>
+   <shortdesc>Buy and print shipping labels in your Shopify admin or the Shopify app</shortdesc>
+   <prolog class="- topic/prolog ">
+      <metadata class="- topic/metadata ">
+         <keywords class="- topic/keywords ">
+            <keyword class="- topic/keyword ">printing</keyword>
+            <keyword class="- topic/keyword ">labels</keyword>
+            <keyword class="- topic/keyword ">shipping</keyword>
+            <keyword class="- topic/keyword ">voiding</keyword>
+            <keyword class="- topic/keyword ">buying</keyword>
+            <keyword class="- topic/keyword ">testing</keyword>
+            <keyword class="- topic/keyword ">canceling</keyword>
+            <keyword class="- topic/keyword ">cancelling</keyword>
+            <keyword class="- topic/keyword ">voiding</keyword>
+            <keyword class="- topic/keyword ">void</keyword>
+            <keyword class="- topic/keyword ">customs</keyword>
+            <keyword class="- topic/keyword ">forms</keyword>
+         </keywords>
+      </metadata>
+      <data class="- topic/data " name="gid" value="3d8b2971-607a-4d21-8934-b6dde6e1c88a"/>
+      <data class="- topic/data " name="legacy-urls" value="/manual/shipping/labels/buy-and-print"/>
+      <data class="- topic/data " name="url"
+         value="/en/manual/shipping/shopify-shipping/buy-and-print"/>
+      <data class="- topic/data " name="weight" value="3"/>
+   </prolog>
+   <body class="- topic/body ">
+      <p class="- topic/p ">Shopify Shipping is available for orders shipped from fulfillment
+         locations in the United States (USPS, DHL Express, and UPS) and Canada (Canada Post). UPS
+         doesn't support P.O. box addresses. You need to update your address to a street address to
+         create and send shipping labels. If your fulfillment locations aren't based in the US or
+         Canada, then use a <xref class="- topic/xref "
+            href="https://apps.shopify.com/search?q=shipping+label" format="html" scope="external"
+            >shipping label app</xref> instead.</p>
+      <p class="- topic/p ">If you use Shopify Shipping, then you can buy shipping labels when
+         you're <xref class="- topic/xref "
+            href="https://help.shopify.com/manual/orders/fulfill-orders/" format="html"
+            scope="external">fulfilling an order</xref> in your Shopify admin or the Shopify app.
+         After you buy a label, you can <xref class="- topic/xref " href="#print-a-test-label"
+            format="html">print</xref> or <xref class="- topic/xref " href="#void-a-shipping-label"
+            format="html">void</xref> it from the order page.</p>
+      <note type="other" othertype="Information">
+         <p class="- topic/p ">Shipping rates are calculated based on the weight of the products
+            you're shipping. If you <xref class="- topic/xref "
+               href="https://help.shopify.com/manual/products/add-update-products" format="html"
+               scope="external">add product weights</xref> when you create new products or <xref
+               class="- topic/xref "
+               href="https://help.shopify.com/manual/productivity-tools/bulk-editing-products"
+               format="html" scope="external">use the bulk editor</xref> to update the product
+            weights in your current inventory, then you're more likely to receive correct shipping
+            rates when you're fulfilling your orders.</p>
+      </note>
+      <p class="- topic/p "><object width="800" height="450"
+            data="https://www.youtube.com/embed/WQUQHB0Ow5Q"/></p>
+      <note conref="../../../md_shared/en/shipping_shared.dita#shipping_shared/link-to-more-videos"
+      > </note>
+   </body>
+   <topic id="print-a-test-label">
+      <title class="- topic/title ">Print a test label</title>
+      <body class="- topic/body ">
+         <p class="- topic/p ">You can print a test shipping label to make sure that your printer is
+            set up properly. You will not be charged for printing a test label.</p>
+         <note type="other" othertype="Information">
+            <p class="- topic/p ">You can also print a test label by visiting the <xref
+                  class="- topic/xref "
+                  href="https://cdn.shopify.com/s/assets/admin/shipping/test-label--usps-4_x_6_PNG-7ec2736fc2f2217940be4a8a4d28cc623f0f0a7d4485eed298c30ade84db013a.pdf"
+                  format="pdf" scope="external">test label page</xref> directly.</p>
+         </note>
+      </body>
+      <topic id="steps">
+         <title class="- topic/title ">Steps:</title>
+         <body class="- topic/body ">
             <section platform="Desktop">
-                <p class="- topic/p ">
-                    <ol><li conref="../../../md_shared/en/shipping_shared.dita#shipping_shared/orders"></li></ol>
-                </p>
-                <ol class="- topic/ol ">
-                    <li class="- topic/li ">Click the number of the order with the shipping label
-                        that you want to void.</li>
-                    <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Fulfilled</b>
-                        section, click <b class="+ topic/ph hi-d/b ">More</b>, and then click <b
-                            class="+ topic/ph hi-d/b ">Void label</b>: <note>
-                            <p class="- topic/p ">You can also void a shipping label from the <b
-                                    class="+ topic/ph hi-d/b ">Timeline</b> section of an order's
-                                page using the <b class="+ topic/ph hi-d/b ">Manage shipment</b>
-                                drop-down menu.</p>
-                        </note>
-                    </li>
-                    <li class="- topic/li ">Select a <b class="+ topic/ph hi-d/b ">Reason for
-                            voiding</b> from the drop-down-menu: <image class="- topic/image "
-                            href="https://help.shopify.com/manual/settings/shipping/reason-for-voiding.png">
-                            <alt class="- topic/alt ">Highlighted "Reason for voiding" drop-down
-                                menu</alt>
-                        </image>
-                    </li>
-                    <li class="- topic/li ">Click <b class="+ topic/ph hi-d/b ">Void label</b> to
-                        confirm. You can <xref class="- topic/xref " href="#buy-a-shipping-label"
-                            format="html">buy a new label for this order</xref> from the order
-                        details page.</li>
-                </ol>
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">From your Shopify admin, click <b
+                        class="+ topic/ph hi-d/b ">Settings</b>, and then click <b
+                        class="+ topic/ph hi-d/b ">Shipping</b>.</li>
+                  <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Shipping labels</b>
+                     section, click <b class="+ topic/ph hi-d/b ">Print test label</b>.</li>
+                  <li class="- topic/li ">If the label downloads to your computer, then find the
+                     file on your computer and open it. If the label opens in a new tab in your
+                     browser, then open the tab.</li>
+                  <li class="- topic/li ">Find the print option for the test label, then select
+                     it.</li>
+                  <li class="- topic/li ">In the print dialog, select the printer you want to use to
+                     print the label.</li>
+                  <li class="- topic/li ">Select the paper size that matches the printer you're
+                     using to print the label. If you're <xref class="- topic/xref "
+                        href="https://help.shopify.com/manual/shipping/shopify-shipping/label-printers"
+                        format="html" scope="external">using a label printer</xref>, then select <b
+                        class="+ topic/ph hi-d/b ">4" x 6"</b>. If you're using a desktop printer,
+                     select <b class="+ topic/ph hi-d/b ">8.5" x 11"</b>.</li>
+                  <li class="- topic/li ">After you've chosen the correct printer and paper size,
+                     click <b class="+ topic/ph hi-d/b ">Print</b>.</li>
+               </ol>
             </section>
             <section platform="iPhone">
-                <ol class="- topic/ol ">
-                    <li class="- topic/li ">From the <xref class="- topic/xref "
-                            href="https://www.shopify.com/install/detect" format="html"
-                            scope="external">Shopify app</xref>, tap <b class="+ topic/ph hi-d/b "
-                            >Orders</b>.</li>
-                    <li class="- topic/li ">Tap the order with the shipping label you want to
-                        void.</li>
-                    <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Fulfilled</b>
-                        section, tap <codeph class="+ topic/ph pr-d/codeph ">...</codeph> to expand
-                        the shipping label menu.</li>
-                    <li class="- topic/li ">Tap <b class="+ topic/ph hi-d/b ">Void shipping
-                            label</b>.</li>
-                    <li class="- topic/li ">Select a <b class="+ topic/ph hi-d/b ">Reason for
-                            voiding</b>.</li>
-                    <li class="- topic/li ">Tap <b class="+ topic/ph hi-d/b ">Void label</b> to
-                        confirm.</li>
-                </ol>
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">From the <xref class="- topic/xref "
+                        href="https://www.shopify.com/install/detect" format="html" scope="external"
+                        >Shopify app</xref>, go to <b class="+ topic/ph hi-d/b ">Store</b> &gt; <b
+                        class="+ topic/ph hi-d/b ">Settings</b>.</li>
+                  <li class="- topic/li ">Under <b class="+ topic/ph hi-d/b ">Store settings</b>,
+                     tap <b class="+ topic/ph hi-d/b ">Shipping</b>.</li>
+                  <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Label format</b>
+                     section, select the correct paper size for your printer. If you're <xref
+                        class="- topic/xref "
+                        href="https://help.shopify.com/manual/shipping/shopify-shipping/label-printers"
+                        format="html" scope="external">using a label printer</xref>, then select <b
+                        class="+ topic/ph hi-d/b ">4" x 6"</b>. If you're using a desktop printer,
+                     then select <b class="+ topic/ph hi-d/b ">8.5" x 11"</b>.</li>
+                  <li class="- topic/li ">Tap <b class="+ topic/ph hi-d/b ">Print test
+                     label</b>.</li>
+                  <li class="- topic/li ">Tap <b class="+ topic/ph hi-d/b ">Printer</b>, then select
+                     your printer.</li>
+                  <li class="- topic/li ">Tap <b class="+ topic/ph hi-d/b ">Print</b>.</li>
+               </ol>
             </section>
             <section platform="Android">
-                <ol class="- topic/ol ">
-                    <li class="- topic/li ">From the <xref class="- topic/xref "
-                            href="https://www.shopify.com/install/detect" format="html"
-                            scope="external">Shopify app</xref>, tap <b class="+ topic/ph hi-d/b "
-                            >Orders</b>.</li>
-                    <li class="- topic/li ">Tap the order with the shipping label you want to
-                        void.</li>
-                    <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Fulfilled</b>
-                        section, tap <codeph class="+ topic/ph pr-d/codeph "/> to expand the
-                        shipping label menu.</li>
-                    <li class="- topic/li ">Tap <b class="+ topic/ph hi-d/b ">Void shipping
-                            label</b>.</li>
-                    <li class="- topic/li ">Select a <b class="+ topic/ph hi-d/b ">Reason for
-                            voiding</b>.</li>
-                    <li class="- topic/li ">Tap <b class="+ topic/ph hi-d/b ">Void label</b> to
-                        confirm.</li>
-                </ol>
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">From the <xref class="- topic/xref "
+                        href="https://www.shopify.com/install/detect" format="html" scope="external"
+                        >Shopify app</xref>, go to <b class="+ topic/ph hi-d/b ">Store</b> &gt; <b
+                        class="+ topic/ph hi-d/b ">Settings</b>.</li>
+                  <li class="- topic/li ">Under <b class="+ topic/ph hi-d/b ">Store settings</b>,
+                     tap <b class="+ topic/ph hi-d/b ">Shipping</b>.</li>
+                  <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Label format</b>
+                     section, select the correct paper size for your printer. If you're <xref
+                        class="- topic/xref "
+                        href="https://help.shopify.com/manual/shipping/shopify-shipping/label-printers"
+                        format="html" scope="external">using a label printer</xref>, then select <b
+                        class="+ topic/ph hi-d/b ">4" x 6"</b>. If you're using a desktop printer,
+                     then select <b class="+ topic/ph hi-d/b ">8.5" x 11"</b>.</li>
+                  <li class="- topic/li ">Tap <b class="+ topic/ph hi-d/b ">Print test label</b>. <note>
+                        <p class="- topic/p ">If you're using Google Chrome, then your shipping
+                           label might automatically download to your device instead of opening a
+                           print dialog. Find the file in your <b class="+ topic/ph hi-d/b "
+                              >Downloads</b> folder and open it.</p>
+                     </note>
+                  </li>
+                  <li class="- topic/li ">Tap <codeph class="+ topic/ph pr-d/codeph "/> to expand
+                     the menu, then select <b class="+ topic/ph hi-d/b ">Print</b>: <image
+                        class="- topic/image "
+                        href="../../../../images/en/shipping-label-print-preview-android.png">
+                        <alt class="- topic/alt ">Expanded drop-down menu showing the "Print" button
+                           location</alt>
+                     </image>
+                  </li>
+                  <li class="- topic/li ">In the print preview, select your printer from the
+                     drop-down menu, then tap <b class="+ topic/ph hi-d/b ">Print</b>.</li>
+               </ol>
             </section>
-        </body>
-    </topic>
+         </body>
+      </topic>
+   </topic>
+   <topic id="buy-a-shipping-label">
+      <title class="- topic/title ">Buy a shipping label</title>
+      <body class="- topic/body ">
+         <p class="- topic/p ">The cost of shipping labels is based on the <xref
+               class="- topic/xref "
+               href="https://help.shopify.com/manual/shipping/shopify-shipping/rates" format="html"
+               scope="external">rates offered by UPS, DHL, USPS or Canada Post</xref>.</p>
+         <note>
+            <p class="- topic/p ">If you are dropshipping, or a third-party ships out products on
+               your behalf, then you don't need to purchase a shipping label unless your fulfillment
+               service requests one. To learn more, visit our <xref class="- topic/xref "
+                  href="https://help.shopify.com/manual/orders/fulfill-orders#fulfillment-through-a-third-party-service"
+                  format="html" scope="external">
+                  <i class="+ topic/ph hi-d/i ">fulfillment through a third-party service</i>
+               </xref> section.</p>
+         </note>
+      </body>
+      <topic id="steps-1">
+         <title class="- topic/title ">Steps:</title>
+         <body class="- topic/body ">
+            <section platform="Desktop">
+               <p class="- topic/p ">
+                  <ol>
+                     <li conref="../../../md_shared/en/shipping_shared.dita#shipping_shared/orders"
+                     />
+                  </ol>
+               </p>
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">Click an order that contains unfulfilled items.</li>
+                  <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Unfulfilled</b>
+                     section, click <b class="+ topic/ph hi-d/b ">Create shipping label</b>.</li>
+                  <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Items</b> section,
+                     confirm the number of items you want to include in this fulfillment. If you
+                     want to ship the customer's order using more than one fulfillment, then reduce
+                     the quantity of each item that you don't want to ship in this fulfillment to
+                     zero. You can buy an additional shipping label for each fulfillment that's
+                     required to complete the entire order.</li>
+                  <li class="- topic/li ">Select a package from the <b class="+ topic/ph hi-d/b "
+                        >Package</b> drop-down menu, and then enter the weight of your shipment in
+                     the <b class="+ topic/ph hi-d/b ">Total weight</b> text box: <image
+                        class="- topic/image "
+                        href="../../../../images/en/shipping-label-package-and-weight.png">
+                        <alt class="- topic/alt ">All fields in the "Package and weight"
+                           section</alt>
+                     </image> If you want to add a new package type, then click <b
+                        class="+ topic/ph hi-d/b ">Add package</b>. In the <b
+                        class="+ topic/ph hi-d/b ">Add a package</b> dialog, enter the information
+                     about your new package type, and then click <b class="+ topic/ph hi-d/b ">Add
+                        package</b>. <note type="other" othertype="Information">
+                        <p class="- topic/p ">Some mail types have restrictions on the size of the
+                           packages that you can use to ship your products. A notice about
+                           applicable size restrictions will appear on the <b
+                              class="+ topic/ph hi-d/b ">Add a package</b> dialog when you create a
+                           new package type.</p>
+                     </note>
+                  </li>
+                  <li class="- topic/li ">Select a shipping method in the <b
+                        class="+ topic/ph hi-d/b ">Shipping Service</b> section.</li>
+                  <li class="- topic/li ">If you're shipping internationally, then you need to
+                     complete the <b class="+ topic/ph hi-d/b ">Customs declaration</b> form: <image
+                        class="- topic/image "
+                        href="https://help.shopify.com/manual/shipping/customs-information.jpg">
+                        <alt class="- topic/alt ">Highlighted location of the "Edit customs
+                           information" button</alt>
+                     </image>
+                     <note>
+                        <p class="- topic/p ">You can find the required customs codes using the
+                           United States Trade Commission <xref class="- topic/xref "
+                              href="https://hts.usitc.gov/" format="html" scope="external">HTS
+                              search</xref>. Harmonized System (HS) codes are 6-digit numbers used
+                           internationally to classify goods for trade and customs. Learn more about
+                           HS codes from the <xref class="- topic/xref "
+                              href="http://www.wcoomd.org/en/topics/nomenclature/overview/what-is-the-harmonized-system.aspx"
+                              format="aspx" scope="external">World Customs Organization</xref>.</p>
+                     </note>
+                  </li>
+                  <li class="- topic/li ">If you're using Shopify Shipping with <xref
+                        class="- topic/xref "
+                        href="https://help.shopify.commanual/shipping/shopify-shipping/shipping-options#signature-required-ups-specific"
+                        format="html" scope="external">UPS</xref>, <xref class="- topic/xref "
+                        href="https://help.shopify.com/manual/shipping/shopify-shipping/shipping-options/#signature-confirmation-usps-specific"
+                        format="html" scope="external">USPS</xref>, or <xref class="- topic/xref "
+                        href="https://help.shopify.com/manual/shipping/shopify-shipping/shipping-options/#signature-required-canada-post-specific"
+                        format="html" scope="external">Canada Post</xref>, then Check <b
+                        class="+ topic/ph hi-d/b ">Signature Confirmation</b> or <b
+                        class="+ topic/ph hi-d/b ">Signature required</b> to require a signature
+                     upon delivery.</li>
+                  <li class="- topic/li ">If you're using Shopify Shipping, then you can set a
+                     shipping date and click <b class="+ topic/ph hi-d/b ">Send shipment details to
+                        your customer</b> to automatically send shipment details to your customers
+                     on that date: <image class="- topic/image "
+                        href="../../../../images/en/shipping-date.png">
+                        <alt class="- topic/alt ">All fields in the "Shipping date" section</alt>
+                     </image>
+                  </li>
+                  <li class="- topic/li ">If you're using Shopify Shipping with UPS, then you need
+                     to accept the Shopify Shipping UPS Terms.</li>
+                  <li class="- topic/li ">Review your shipping details in the <b
+                        class="+ topic/ph hi-d/b ">Summary</b> section, and then click <b
+                        class="+ topic/ph hi-d/b ">Buy shipping label</b>.</li>
+               </ol>
+               <p class="- topic/p ">When you're ready to ship your order, you might be required to
+                     <xref class="- topic/xref " href="#print-a-customs-declaration-form"
+                     format="html">print out the customs form</xref> separately and affix it to the
+                  outside of your package.</p>
+            </section>
+            <section platform="iPhone">
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">From the <xref class="- topic/xref "
+                        href="https://www.shopify.com/install/detect" format="html" scope="external"
+                        >Shopify app</xref>, tap <b class="+ topic/ph hi-d/b ">Orders</b>.</li>
+                  <li class="- topic/li ">Tap the order that you want to fulfill.</li>
+                  <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Unfulfilled</b>
+                     section, tap <b class="+ topic/ph hi-d/b ">Create shipping label</b>.</li>
+                  <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Shipping address</b>
+                     section, confirm the customer's shipping address. Tap <b
+                        class="+ topic/ph hi-d/b ">Edit shipping address</b> to change the shipping
+                     address or customer name.</li>
+                  <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Items</b> section,
+                     enter the quantity of each item that you want to include in the shipment. By
+                     default, all the order's unfulfilled items are included in the
+                     fulfillment.</li>
+                  <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Package and
+                        weight</b> section, select a package from the <b class="+ topic/ph hi-d/b "
+                        >Package</b> drop-down menu, then enter the weight of your shipment in the
+                        <b class="+ topic/ph hi-d/b ">Total weight</b> field. If you want to add a
+                     new package, then tap <b class="+ topic/ph hi-d/b ">Add package</b> and enter
+                     the new package size and weight. <note type="other" othertype="Information">
+                        <p class="- topic/p ">Some mail types have restrictions on the size of the
+                           packages that you can use to ship your products. A notice about
+                           applicable size restrictions will appear on the <b
+                              class="+ topic/ph hi-d/b ">Add a package</b> dialog when you create a
+                           new package type.</p>
+                     </note>
+                  </li>
+                  <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Shipping service</b>
+                     section, select a shipping carrier.</li>
+                  <li class="- topic/li ">Optional: Uncheck <b class="+ topic/ph hi-d/b ">Email
+                        shipment details to customer now</b>.</li>
+                  <li class="- topic/li ">Tap <b class="+ topic/ph hi-d/b ">Buy shipping
+                     label</b>.</li>
+               </ol>
+            </section>
+            <section platform="Android">
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">From the <xref class="- topic/xref "
+                        href="https://www.shopify.com/install/detect" format="html" scope="external"
+                        >Shopify app</xref>, tap <b class="+ topic/ph hi-d/b ">Orders</b>.</li>
+                  <li class="- topic/li ">Tap the order that you want to fulfill.</li>
+                  <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Unfulfilled</b>
+                     section, tap <b class="+ topic/ph hi-d/b ">CREATE SHIPPING LABEL</b>.</li>
+                  <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Shipping address</b>
+                     section, confirm the customer's shipping address. Tap <b
+                        class="+ topic/ph hi-d/b ">Edit shipping address</b> to change the shipping
+                     address or customer name.</li>
+                  <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Items</b> section,
+                     enter the quantity of each item that you want to include in the shipment. By
+                     default, all the order's unfulfilled items are included in the
+                     fulfillment.</li>
+                  <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Package and
+                        weight</b> section, select a package from the <b class="+ topic/ph hi-d/b "
+                        >Package</b> drop-down menu, then enter the weight of your shipment in the
+                        <b class="+ topic/ph hi-d/b ">Total weight</b> field. If you want to add a
+                     new package, then tap <b class="+ topic/ph hi-d/b ">Add package</b> and enter
+                     the new package size and weight. <note type="other" othertype="Information">
+                        <p class="- topic/p ">Some mail types have restrictions on the size of the
+                           packages that you can use to ship your products. A notice about
+                           applicable size restrictions will appear on the <b
+                              class="+ topic/ph hi-d/b ">Add a package</b> dialog when you create a
+                           new package type.</p>
+                     </note>
+                  </li>
+                  <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Shipping service</b>
+                     section, select a shipping carrier.</li>
+                  <li class="- topic/li ">Optional: Uncheck <b class="+ topic/ph hi-d/b ">Email
+                        shipment details to customer now</b>.</li>
+                  <li class="- topic/li ">Tap <b class="+ topic/ph hi-d/b ">Buy shipping
+                     label</b>.</li>
+               </ol>
+            </section>
+            <note>
+               <p class="- topic/p ">The cost of Canada Post shipping labels is displayed in CAD,
+                  but converted to USD when you are billed through your Shopify account.</p>
+            </note>
+            <p class="- topic/p ">After you buy a shipping label, the cost is billed to you through
+               your Shopify account. The total price will appear on your bill and includes any
+               applicable taxes and fees.</p>
+            <note type="tip">
+               <p class="- topic/p ">Not all packaging types are eligible to receive a USPS tracking
+                  number. For example, package tracking isn't supported for the First Class Large
+                  Envelope (flat) package type. To learn more, <xref class="- topic/xref "
+                     href="https://www.usps.com/ship/insurance-extra-services.htm" format="htm"
+                     scope="external">compare the services that USPS offers for each packaging
+                     type</xref> (click <b class="+ topic/ph hi-d/b ">Quick Compare</b>).</p>
+            </note>
+         </body>
+      </topic>
+      <topic id="print-a-shipping-label">
+         <title class="- topic/title ">Print a shipping label</title>
+         <body class="- topic/body ">
+            <p class="- topic/p ">After you buy a shipping label, you need to print it out and affix
+               it to the outside of the package you want to ship.</p>
+            <p class="- topic/p ">If you're shipping internationally, then your package might need a
+               separate <xref class="- topic/xref " href="#print-a-customs-declaration-form"
+                  format="html">customs declaration form</xref> too.</p>
+            <p class="- topic/p ">You can print shipping labels using a <xref class="- topic/xref "
+                  href="https://help.shopify.com/manual/shipping/shopify-shipping/label-printers"
+                  format="html" scope="external">supported label printer</xref>, or you can print
+               them using a desktop printer and affix them to the outside of your package using a
+               plastic sleeve or packing tape. If you need to change the format of a shipping label
+               after you've purchased it, then change the label format in your <xref
+                  class="- topic/xref " href="https://www.shopify.com/admin/settings/shipping"
+                  format="html" scope="external">
+                  <b class="+ topic/ph hi-d/b ">Shipping</b>
+               </xref> settings, and reprint the label.</p>
+         </body>
+      </topic>
+      <topic id="steps-2">
+         <title class="- topic/title ">Steps:</title>
+         <body class="- topic/body ">
+            <section platform="Desktop">
+               <p class="- topic/p ">
+                  <ol>
+                     <li conref="../../../md_shared/en/shipping_shared.dita#shipping_shared/orders"
+                     />
+                  </ol>
+               </p>
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">Click the number of an order that you've purchased a
+                     shipping label for.</li>
+                  <li class="- topic/li ">Click <b class="+ topic/ph hi-d/b ">More actions</b>, and
+                     then click <b class="+ topic/ph hi-d/b ">Print label</b>: <image
+                        class="- topic/image " href="../../../../images/en/download-label.png">
+                        <alt class="- topic/alt ">Highlighted location of the "Print label"
+                           button</alt>
+                     </image>
+                  </li>
+                  <li class="- topic/li ">In the dialog, select the printer that you want to use to
+                     print the label.</li>
+                  <li class="- topic/li ">Select the a paper size that matches the printer you're
+                     using to print the label. If you're <xref class="- topic/xref "
+                        href="https://help.shopify.com/manual/shipping/shopify-shipping/label-printers"
+                        format="html" scope="external">using a label printer</xref>, then select <b
+                        class="+ topic/ph hi-d/b ">4" x 6"</b>. If you're using a desktop printer,
+                     then select <b class="+ topic/ph hi-d/b ">8.5" x 11"</b>.</li>
+                  <li class="- topic/li ">After you've chosen the correct printer and paper size,
+                     click <b class="+ topic/ph hi-d/b ">Print</b>.</li>
+               </ol>
+            </section>
+            <section platform="iPhone">
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">From the <xref class="- topic/xref "
+                        href="https://www.shopify.com/install/detect" format="html" scope="external"
+                        >Shopify app</xref>, tap <b class="+ topic/ph hi-d/b ">Orders</b>.</li>
+                  <li class="- topic/li ">Tap an order that you've purchased a shipping label
+                     for.</li>
+                  <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Fulfilled</b>
+                     section, tap <b class="+ topic/ph hi-d/b ">Print shipping label</b>.</li>
+                  <li class="- topic/li ">Tap <b class="+ topic/ph hi-d/b ">Printer</b>, then select
+                     your printer.</li>
+                  <li class="- topic/li ">Tap <b class="+ topic/ph hi-d/b ">Print</b>.</li>
+               </ol>
+            </section>
+            <section platform="Android">
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">From the <xref class="- topic/xref "
+                        href="https://www.shopify.com/install/detect" format="html" scope="external"
+                        >Shopify app</xref>, tap <b class="+ topic/ph hi-d/b ">Orders</b>.</li>
+                  <li class="- topic/li ">Tap an order that you've purchased a shipping label
+                     for.</li>
+                  <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Fulfilled</b>
+                     section, tap <b class="+ topic/ph hi-d/b ">PRINT SHIPPING LABEL</b>. <note>
+                        <p class="- topic/p ">If you're using Google Chrome, then your shipping
+                           label might automatically download to your device instead of opening a
+                           print dialog. Find the file in your <b class="+ topic/ph hi-d/b "
+                              >Downloads</b> folder and open it.</p>
+                     </note>
+                  </li>
+                  <li class="- topic/li ">Tap <codeph class="+ topic/ph pr-d/codeph "/> to expand
+                     the menu, then select <b class="+ topic/ph hi-d/b ">Print</b>: <image
+                        class="- topic/image "
+                        href="../../../../images/en/shipping-label-print-preview-android.png">
+                        <alt class="- topic/alt ">Expanded drop-down menu showing the "Print" button
+                           location</alt>
+                     </image>
+                  </li>
+                  <li class="- topic/li ">In the print preview, select your printer from the
+                     drop-down menu, then tap <b class="+ topic/ph hi-d/b ">Print</b>.</li>
+               </ol>
+            </section>
+         </body>
+      </topic>
+      <topic id="print-a-customs-declaration-form">
+         <title class="- topic/title ">Print a customs declaration form</title>
+         <body class="- topic/body ">
+            <p class="- topic/p ">If you're shipping to an international destination, then you need
+               to complete a customs declaration form. Some mail types require that you print a
+               separate customs form for your shipment, and others include the form on the standard
+               shipping label:</p>
+            <ul class="- topic/ul ">
+               <li class="- topic/li ">If you use <b class="+ topic/ph hi-d/b ">Priority Mail
+                     International</b> or <b class="+ topic/ph hi-d/b ">Priority Express Mail
+                     International</b>, then you need to print a separate customs form in addition
+                  to the shipping label and affix them both to the outside of your package.</li>
+               <li class="- topic/li ">If you use <b class="+ topic/ph hi-d/b ">First Class Package
+                     International Service</b>, <b class="+ topic/ph hi-d/b ">Priority Mail Flat
+                     International flat rate envelopes</b>, or <b class="+ topic/ph hi-d/b "
+                     >Priority Mail International small flat rate boxes</b>, then the customs
+                  declaration is included in the shipping label itself.</li>
+            </ul>
+            <note>
+               <p class="- topic/p ">If you <xref class="- topic/xref "
+                     href="#buy-and-print-multiple-shipping-labels" format="html">buy and print
+                     multiple shipping labels</xref> at once, then you can also print any necessary
+                  customs declaration forms during that process.</p>
+            </note>
+         </body>
+      </topic>
+      <topic id="steps-3">
+         <title class="- topic/title ">Steps:</title>
+         <body class="- topic/body ">
+            <section platform="Desktop">
+               <p class="- topic/p ">
+                  <ol>
+                     <li conref="../../../md_shared/en/shipping_shared.dita#shipping_shared/orders"
+                     />
+                  </ol>
+               </p>
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">Click the number of an international order that needs a
+                     separate customs declaration form.</li>
+                  <li class="- topic/li ">Click <b class="+ topic/ph hi-d/b ">More actions</b>, and
+                     then click <b class="+ topic/ph hi-d/b ">Create shipping label</b>:
+                     <!--image
+                        class="- topic/image "
+                        href="../../../../images/en/fulfill-items-customs.png">
+                        <alt class="- topic/alt ">Highlighted location of the "Create shipping
+                           label" button</alt>
+                     </image-->
+                  </li>
+                  <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Items</b> section,
+                     click <b class="+ topic/ph hi-d/b ">Edit customs information</b>:
+                     <!--image
+                        class="- topic/image " href="../../../../images/en/customs-information.png">
+                        <alt class="- topic/alt ">Highlighted location of the "Edit customs
+                           information" button</alt>
+                     </image-->
+                  </li>
+                  <li class="- topic/li ">Fill out the <b class="+ topic/ph hi-d/b ">Edit customs
+                        information</b> form, then click <b class="+ topic/ph hi-d/b ">Save</b>:
+                     <!--image class="- topic/image "
+                                href="../../../../images/en/customs-information-popup.png">
+                                <alt class="- topic/alt ">All fields in the "Edit customs
+                                    information" section</alt>
+                            </image-->
+                  </li>
+                  <li class="- topic/li ">When you are ready to purchase the label, click <b
+                        class="+ topic/ph hi-d/b ">Buy shipping label</b>: <image
+                        class="- topic/image " href="../../../../images/en/customs-buy-label.png">
+                        <alt class="- topic/alt ">"Buy shipping label" button in the Summary
+                           section</alt>
+                     </image>
+                  </li>
+                  <li class="- topic/li ">Click <b class="+ topic/ph hi-d/b ">Print label</b>.</li>
+               </ol>
+            </section>
+            <section platform="iPhone">
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">From the <xref class="- topic/xref "
+                        href="https://www.shopify.com/install/detect" format="html" scope="external"
+                        >Shopify app</xref>, tap <b class="+ topic/ph hi-d/b ">Orders</b>.</li>
+                  <li class="- topic/li ">Tap an order that needs a separate customs declaration
+                     form.</li>
+                  <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Unfulfilled</b>
+                     section tap <b class="+ topic/ph hi-d/b ">Create shipping label</b>.</li>
+                  <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Items</b> section,
+                     tap <b class="+ topic/ph hi-d/b ">Edit customs information</b>.</li>
+                  <li class="- topic/li ">Fill out the customs information form, then tap <b
+                        class="+ topic/ph hi-d/b ">Save</b>: <image class="- topic/image "
+                           href="../../../../images/en/create-shipping-label-edit-customs-iphone.png">
+                        <alt class="- topic/alt ">All fields in the "Edit customs information"
+                           section</alt>
+                     </image>
+                  </li>
+                  <li class="- topic/li ">Tap <b class="+ topic/ph hi-d/b ">Buy shipping label</b>
+                     when you are ready to purchase the label.</li>
+                  <li class="- topic/li ">Tap <b class="+ topic/ph hi-d/b ">Print shipping
+                     label</b>.</li>
+               </ol>
+            </section>
+            <section platform="Android">
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">From the <xref class="- topic/xref "
+                        href="https://www.shopify.com/install/detect" format="html" scope="external"
+                        >Shopify app</xref>, tap <b class="+ topic/ph hi-d/b ">Orders</b>.</li>
+                  <li class="- topic/li ">Tap an order that needs a separate customs declaration
+                     form.</li>
+                  <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Unfulfilled</b>
+                     section tap <b class="+ topic/ph hi-d/b ">CREATE SHIPPING LABEL</b>.</li>
+                  <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Items</b> section,
+                     tap <b class="+ topic/ph hi-d/b ">Edit customs information</b>.</li>
+                  <li class="- topic/li ">Fill out the customs information form, then tap <b
+                        class="+ topic/ph hi-d/b ">Save</b>: <image class="- topic/image "
+                           href="../../../../images/en/create-shipping-label-edit-customs-android.png">
+                        <alt class="- topic/alt ">All fields in the "Edit customs information"
+                           section</alt>
+                     </image>
+                  </li>
+                  <li class="- topic/li ">Tap <b class="+ topic/ph hi-d/b ">Buy shipping label</b>
+                     when you are ready to purchase the label.</li>
+                  <li class="- topic/li ">Tap <b class="+ topic/ph hi-d/b ">Print shipping
+                     label</b>.</li>
+               </ol>
+            </section>
+            <p class="- topic/p ">The customs declaration form will be printed with the shipping
+               label.</p>
+            <note>
+               <p class="- topic/p ">International labels can't be purchased using Shopify Shipping
+                  if the line items are valued over $2,500 USD.</p>
+            </note>
+         </body>
+      </topic>
+   </topic>
+   <topic id="buy-and-print-multiple-shipping-labels">
+      <title class="- topic/title ">Buy and print multiple shipping labels</title>
+      <body class="- topic/body ">
+         <p class="- topic/p ">You can buy and print up to 20 shipping labels at a time from the
+               <xref class="- topic/xref " href="https://www.shopify.com/admin/orders" format="html"
+               scope="external">
+               <b class="+ topic/ph hi-d/b ">Orders</b>
+            </xref> page in your Shopify admin. Use the checkboxes to select up to 20 orders that
+            you want to buy shipping labels for.</p>
+         <p class="- topic/p ">The following kinds of orders won't be included when buying shipping
+            labels in bulk:</p>
+         <ul class="- topic/ul ">
+            <li class="- topic/li ">orders that contain only items that do not require shipping</li>
+            <li class="- topic/li ">orders that don't have a valid shipping address</li>
+            <li class="- topic/li ">orders that are already fulfilled</li>
+         </ul>
+         <p class="- topic/p ">If an order has already been partially fulfilled, then only the
+            unfulfilled items are included in the bulk label purchase.</p>
+      </body>
+   </topic>
+   <topic id="shipping-label-format">
+      <title class="- topic/title ">Shipping label format</title>
+      <body class="- topic/body ">
+         <p class="- topic/p ">The format of a shipping label depends on which carrier and class you
+            choose when you're buying a label. You can't edit the label format because each carrier
+            has specific requirements for their labels.</p>
+         <p class="- topic/p ">If you purchase a label using Shopify Shipping, then it will include
+            the order number that's in your Shopify admin. You can use the order number on the label
+            to match packages to orders more easily. The placement of the order number varies
+            between carriers: <image class="- topic/image "
+               href="../../../../images/en/order-label-usps.png">
+               <alt class="- topic/alt ">Highlighted order number location on an example USPS
+                  label</alt>
+            </image>
+            <image class="- topic/image " href="../../../../images/en/order-label-dhl.png">
+               <alt class="- topic/alt ">Highlighted order number location on an example DHL
+                  label</alt>
+            </image>
+         </p>
+         <note>
+            <p class="- topic/p ">The order number doesn't appear on USPS First Class Package
+               International labels.</p>
+         </note>
+         <p class="- topic/p ">To minimize the risk of shipping delays, when you affix the label to
+            the package, all barcodes should be easy to scan. Specifically, you should make sure
+            that barcodes on a shipping-tube label run lengthwise along the tube.</p>
+      </body>
+   </topic>
+   <topic id="change-your-shipping-label-printer-settings">
+      <title class="- topic/title ">Change your shipping label printer settings</title>
+      <body class="- topic/body ">
+         <p class="- topic/p ">If you print a shipping label using the wrong printer settings, then
+            you can change your label settings to the correct printer type, and reprint the shipping
+            label.</p>
+      </body>
+      <topic id="steps-4">
+         <title class="- topic/title ">Steps:</title>
+         <body class="- topic/body ">
+            <section
+               conref="../../../md_shared/en/shipping_shared.dita#shipping_shared/settings-shipping"/>
+            <ol class="- topic/ol ">
+               <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Shipping labels</b>
+                  section, select the <b class="+ topic/ph hi-d/b ">Label format</b> that matches
+                  the printer you want to use: <image class="- topic/image "
+                     href="../../../../images/en/printer-type.png">
+                     <alt class="- topic/alt ">All fields in the "Label format" section</alt>
+                  </image>
+                  <p class="- topic/p ">Some labels can be printed only by a certain model of
+                     printer, so make sure that the type of printer that you choose at this step
+                     matches the one that you have:</p>
+                  <table class="- topic/table ">
+                     <tgroup class="- topic/tgroup " cols="2">
+                        <colspec class="- topic/colspec " colname="col1"/>
+                        <colspec class="- topic/colspec " colname="col2"/>
+                        <tbody class="- topic/tbody ">
+                           <row class="- topic/row ">
+                              <entry class="- topic/entry ">8.5 × 11 inch paper for desktop
+                                 printers</entry>
+                              <entry class="- topic/entry ">Outputs the label in PDF file format.
+                                 Choose this if you want to print labels on a desktop printer, or if
+                                 you want to print two labels per page when you <xref
+                                    class="- topic/xref " format="html"
+                                    href="#buy-and-print-multiple-shipping-labels">buy multiple
+                                    shipping labels at once</xref>.</entry>
+                           </row>
+                           <row class="- topic/row ">
+                              <entry class="- topic/entry ">4 × 6 inch label for label
+                                 printers</entry>
+                              <entry class="- topic/entry ">Outputs the label in PDF file format.
+                                 Choose this if you want to print labels using a label printer
+                                 (Dymo, Rollo, or other). </entry>
+                           </row>
+                        </tbody>
+                     </tgroup>
+                  </table>
+               </li>
+            </ol>
+            <p class="- topic/p ">After you've changed your label printer settings, you can reprint
+               the shipping label whose format you want to change. You don't need to void and
+               repurchase the label before you reprint it in the new format.</p>
+         </body>
+      </topic>
+   </topic>
+   <topic id="void-a-shipping-label">
+      <title class="- topic/title ">Void a shipping label</title>
+      <body class="- topic/body ">
+         <p class="- topic/p ">You can void a shipping label after you've bought it, as long as:</p>
+         <ul class="- topic/ul ">
+            <li class="- topic/li ">it's been less than 30 days since you bought the label</li>
+            <li class="- topic/li ">the package hasn't already been shipped by your carrier.</li>
+         </ul>
+         <p class="- topic/p ">After you void a shipping label, the cost of the label is credited to
+            your account. This amount will be applied to the cost of any shipping labels that you
+            buy in the future. If the package has been shipped, then contact the carrier with the
+            package reference number for help.</p>
+         <p class="- topic/p "><object width="800" height="450"
+               data="https://www.youtube.com/embed/tc7B1_r5v-Y"/></p>
+         <note
+            conref="../../../md_shared/en/shipping_shared.dita#shipping_shared/link-to-more-videos"> </note>
+         <p class="- topic/p ">To void a shipping label:</p>
+         <section platform="Desktop">
+            <p class="- topic/p ">
+               <ol>
+                  <li conref="../../../md_shared/en/shipping_shared.dita#shipping_shared/orders"/>
+               </ol>
+            </p>
+            <ol class="- topic/ol ">
+               <li class="- topic/li ">Click the number of the order with the shipping label that
+                  you want to void.</li>
+               <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Fulfilled</b> section,
+                  click <b class="+ topic/ph hi-d/b ">More</b>, and then click <b
+                     class="+ topic/ph hi-d/b ">Void label</b>: <note>
+                     <p class="- topic/p ">You can also void a shipping label from the <b
+                           class="+ topic/ph hi-d/b ">Timeline</b> section of an order's page using
+                        the <b class="+ topic/ph hi-d/b ">Manage shipment</b> drop-down menu.</p>
+                  </note>
+               </li>
+               <li class="- topic/li ">Select a <b class="+ topic/ph hi-d/b ">Reason for voiding</b>
+                  from the drop-down-menu: <image class="- topic/image "
+                     href="../../../../images/en/reason-for-voiding.png">
+                     <alt class="- topic/alt ">Highlighted "Reason for voiding" drop-down menu</alt>
+                  </image>
+               </li>
+               <li class="- topic/li ">Click <b class="+ topic/ph hi-d/b ">Void label</b> to
+                  confirm. You can <xref class="- topic/xref " href="#buy-a-shipping-label"
+                     format="html">buy a new label for this order</xref> from the order details
+                  page.</li>
+            </ol>
+         </section>
+         <section platform="iPhone">
+            <ol class="- topic/ol ">
+               <li class="- topic/li ">From the <xref class="- topic/xref "
+                     href="https://www.shopify.com/install/detect" format="html" scope="external"
+                     >Shopify app</xref>, tap <b class="+ topic/ph hi-d/b ">Orders</b>.</li>
+               <li class="- topic/li ">Tap the order with the shipping label you want to void.</li>
+               <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Fulfilled</b> section,
+                  tap <codeph class="+ topic/ph pr-d/codeph ">...</codeph> to expand the shipping
+                  label menu.</li>
+               <li class="- topic/li ">Tap <b class="+ topic/ph hi-d/b ">Void shipping
+                  label</b>.</li>
+               <li class="- topic/li ">Select a <b class="+ topic/ph hi-d/b ">Reason for
+                  voiding</b>.</li>
+               <li class="- topic/li ">Tap <b class="+ topic/ph hi-d/b ">Void label</b> to
+                  confirm.</li>
+            </ol>
+         </section>
+         <section platform="Android">
+            <ol class="- topic/ol ">
+               <li class="- topic/li ">From the <xref class="- topic/xref "
+                     href="https://www.shopify.com/install/detect" format="html" scope="external"
+                     >Shopify app</xref>, tap <b class="+ topic/ph hi-d/b ">Orders</b>.</li>
+               <li class="- topic/li ">Tap the order with the shipping label you want to void.</li>
+               <li class="- topic/li ">In the <b class="+ topic/ph hi-d/b ">Fulfilled</b> section,
+                  tap <codeph class="+ topic/ph pr-d/codeph "/> to expand the shipping label
+                  menu.</li>
+               <li class="- topic/li ">Tap <b class="+ topic/ph hi-d/b ">Void shipping
+                  label</b>.</li>
+               <li class="- topic/li ">Select a <b class="+ topic/ph hi-d/b ">Reason for
+                  voiding</b>.</li>
+               <li class="- topic/li ">Tap <b class="+ topic/ph hi-d/b ">Void label</b> to
+                  confirm.</li>
+            </ol>
+         </section>
+      </body>
+   </topic>
 </topic>
